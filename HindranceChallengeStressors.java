@@ -1,3 +1,6 @@
+//Chapter 1 to Chapter 6
+/* 
+
 Hindrance Stressors:
 •	Work
 o	Role conflict
@@ -18,3 +21,7 @@ o	Work responsibility
 o	Family time demands
 o	Personal development
 o	Positive life events
+
+
+
+*/
