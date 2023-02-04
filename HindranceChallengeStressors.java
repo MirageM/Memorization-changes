@@ -49,6 +49,10 @@ Hindrance Stressors have a strong negative relationship with Organizational Comm
 tend to have lower levels of Affective Commitment and Normative Commitment. Relationhips with Continuance Commitment are weaker. 
 
 
+Challenge Stressors have a weak positive relationship with Job Performance. People who experience higher levels of challenge stressors tend to have higher levels of
+task performance. Not much is known about the impact of challenge stressors on Cititizenship Behaviors and Counterproductive Behaviors.
 
+Challenge Stressors have a moderate positive relationship with Organizational Commitment. People who experience higher leels of challenge stressors tend to have
+higher levels of Affective Commitment and Normative Commitment. Relationships with Continuance Commitment are weaker.
 
 */
