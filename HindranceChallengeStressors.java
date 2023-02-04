@@ -42,6 +42,13 @@ Physiological Strains: illness, high blood pressure, coronary artery disease, he
 Psychological Strains: depression, anxiety, irritability, forgetfulness, inability to think clearly, reduced confidence, burnout
 Behavioral Strains: alcohol and drug use, teeth grinding, compulsive behaviors, overeating
 
+Hindrance Stressors have a weak negative relationship with Job Perofmance. People who experience higher levels of hindrance stressors tend to have lower levels of task performance. Not much is known about
+the impact of hindrance stressors on Citizenship Behavior and Counterproductive Behavior.
+
+Hindrance Stressors have a strong negative relationship with Organizational Commitment. People who experience higher levels of hindrance stressors
+tend to have lower levels of Affective Commitment and Normative Commitment. Relationhips with Continuance Commitment are weaker. 
+
+
 
 
 */
