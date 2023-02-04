@@ -1,6 +1,13 @@
 /*
   Job Performance: Employee behaviors that contribute either positively or negatively to the accomplishment of organizational goals
   Job Performance -> Postive or Negative Commitment
+  Task performance:
+  Routine task performance:
+  Adaptive task performance:
+  Creative task performance:
+  Job analysis:
+  Citzenship behaviour:
+  
  */
 
 
