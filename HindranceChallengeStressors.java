@@ -1,5 +1,6 @@
 /*
   Job Performance: Employee behaviors that contribute either positively or negatively to the accomplishment of organizational goals
+  Job Performance -> Postive or Negative Commitment
  */
 
 
