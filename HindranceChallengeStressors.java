@@ -1,3 +1,17 @@
+/*
+  Job Performance: Employee behaviors that contribute either positively or negatively to the accomplishment of organizational goals
+ */
+
+
+
+
+
+
+
+
+
+
+
 //Chapter 1 to Chapter 6
 /* 
 
