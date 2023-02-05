@@ -23,6 +23,9 @@
   Affective commitment: An employee's emotional attachment to an organization
   Continuance commitment: An employee's perceived costs of leaving an organization
   Normative commitment: An employee's perceived obligation to remain a member of an organization
+
+  Erosion model: suggests the employees with fewer bonds will be most likely to quit the organizaion
+  Social influence model: suggest that employees who have direct linkages with "leavers" will themselves be more likely to leave.
  */
 
 
