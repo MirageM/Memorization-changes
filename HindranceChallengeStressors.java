@@ -1,12 +1,19 @@
 /*
  Wonderlic test: Cogntive Ability Test
- Mind in the eyes test: Emotional Intelligence Test (Social Intelligence)
+ Mind in the eyes test: Emotional Intelligence Test (Social Intelligence) (Emotional Ability Test)
 
  Value Percept Theory: Job supplies things that are value by the employee
 
  Civic Virtue: Participating in company operations deeper than normal
 
  Incivility: Communication that is rude, impolite, discourteous, and lacking in good manners
+
+ Relational: 
+
+ Valence: The anticipated value of the outcomes associated with successful performance
+
+ Extrinsic motivation: Motivation that is based on external rewards
+ Intrinsic motivation: Motivation that is based on internal rewards
 
  */
 
