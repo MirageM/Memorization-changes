@@ -26,6 +26,8 @@
 
   Erosion model: suggests the employees with fewer bonds will be most likely to quit the organizaion
   Social influence model: suggest that employees who have direct linkages with "leavers" will themselves be more likely to leave.
+  Embeddedness (Continuance): An employee's connection to and sense of fit int he organization and cummunity
+  
  */
 
 
