@@ -13,7 +13,11 @@
  Valence: The anticipated value of the outcomes associated with successful performance
 
  Extrinsic motivation: Motivation that is based on external rewards
+ External rewards: Rewards that are provided by others
+ External rewards -> Pay, Bonuses, Promotions, Benefits and perks, Spot awards, Praise, Job security, Support, Free time, Lack of Disciplinary actions, Lack of Demotions, Lack of Terminations
  Intrinsic motivation: Motivation that is based on internal rewards
+ Internal rewards: Rewards that are provided by the individual
+ Internal rewards -> Enjoyment, Interestingness, Accomplishment, Knowledge gain, Skill development, Personal expression, Lack of Boredom, Lack of Anxiety, Lack of Frustration
 
  */
 
