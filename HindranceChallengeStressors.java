@@ -11,6 +11,8 @@
  Relational: 
 
  Valence: The anticipated value of the outcomes associated with successful performance
+ Valance: Outcomes that are positive (Outcomes related to rewards)
+ Expectancy: Effort (Expectancy) -> Performance (Instrumentality) -> Rewards (Valence)
 
  Extrinsic motivation: Motivation that is based on external rewards
  External rewards: Rewards that are provided by others
@@ -18,6 +20,13 @@
  Intrinsic motivation: Motivation that is based on internal rewards
  Internal rewards: Rewards that are provided by the individual
  Internal rewards -> Enjoyment, Interestingness, Accomplishment, Knowledge gain, Skill development, Personal expression, Lack of Boredom, Lack of Anxiety, Lack of Frustration
+
+ Meaning of money -> Achievement, Freedom, Respect
+ Feedback: Updated on employees performance/progress
+ Task Complexity: Information and Actions of the task are complicated
+ Goal Commitment: A degree to which an employee is committed to reach a goal
+
+ SMART Goals: Specific, Measurable, Achievable, Result-based, and Time-sensitive.
 
  */
 
