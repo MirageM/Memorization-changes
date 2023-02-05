@@ -1,4 +1,27 @@
 /*
+ Wonderlic test: Cogntive Ability Test
+ Mind in the eyes test: Emotional Intelligence Test (Social Intelligence)
+
+ Value Percept Theory: Job supplies things that are value by the employee
+
+ Civic Virtue: Participating in company operations deeper than normal
+
+ Incivility: Communication that is rude, impolite, discourteous, and lacking in good manners
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+/*
   Job Performance: Employee behaviors that contribute either positively or negatively to the accomplishment of organizational goals
   Job Performance -> Postive or Negative Commitment
   Task performance:
@@ -27,7 +50,7 @@
   Erosion model: suggests the employees with fewer bonds will be most likely to quit the organizaion
   Social influence model: suggest that employees who have direct linkages with "leavers" will themselves be more likely to leave.
   Embeddedness (Continuance): An employee's connection to and sense of fit int he organization and cummunity
-  
+
  */
 
 
