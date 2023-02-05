@@ -7,7 +7,22 @@
   Creative task performance:
   Job analysis:
   Citzenship behaviour:
-  
+
+
+  360-degree feedback: A performance evaluation system that uses ratings provided by supervisors, co-workers, subordinates,
+  customers, and the employees themselves
+
+  Forced ranking: A performance management system that foreces managers to rank each of their people
+  into one of three categories: the top 20 percent, the vital middle 70 percent, or the bottom 10 percent
+
+
+  Organizational commitment: An employee's desire to remain a member of an organization
+  Withdrawal behavior: Employee actions that are intented to avoid work situations
+
+  Three forms of organizaitonal commitment:
+  Affective commitment: An employee's emotional attachment to an organization
+  Continuance commitment: An employee's perceived costs of leaving an organization
+  Normative commitment: An employee's perceived obligation to remain a member of an organization
  */
 
 
