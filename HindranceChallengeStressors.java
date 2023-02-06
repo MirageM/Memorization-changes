@@ -1,4 +1,39 @@
 /*
+
+
+Location and Type Stressors
+Primary: Is this stressful?
+Secondary: How can I cope? 
+
+
+
+Benign job demand: Job demands that are not appraised as being stressful
+
+Four Primary Responses to Negative Events at Work:
+Exit: Quitting the organization
+Loyalty: Staying with the organization
+Neglect: Doing the minimum amount of work
+Voice: Expressing dissatisfaction with the organization
+
+Exit: An active reponse to negative events in which one ends or restricts organizaitonal membership
+Loyalty: A passive response to a negative work in which one publicly supports the situation but privately hopes for improvement
+Neglect: A passive, destructive response to a negative work event in which one's interest and effort in the job decline
+Voice:  An active constructive response in which individuals attempts to improve the situation
+
+
+
+ Psychological Contracts: Employee beliefs about what employees owe the organization and what the organization owes them
+ Transactional Contracts: Psychological contracts that focus on a narrow set of specific monetary obligations
+ Transactional Contract -> Narrow Set -> Specific Monetary Obligations
+ Relational Contracts: Psychological contracts that focus on a broad set of open-ended and subjective obligations
+ Relational Contracts -> Broad Set -> Open Ended -> Subjective Obligations
+ */
+
+
+
+
+
+/*
  Wonderlic test: Cogntive Ability Test
  Mind in the eyes test: Emotional Intelligence Test (Social Intelligence) (Emotional Ability Test)
 
@@ -27,6 +62,30 @@
  Goal Commitment: A degree to which an employee is committed to reach a goal
 
  SMART Goals: Specific, Measurable, Achievable, Result-based, and Time-sensitive.
+
+ Equity Theory: Employees compare their inputs and outcomes with those of others
+ Equity Theory: A Theory that suggests that employees create a mental ledge of the outcomes they receive for their job inputs, relative to some comparison
+ Equity Theory -> Comparison -> Inputs -> Outcomes
+
+ Cognitive Distortion: A negative thought pattern that distorts reality
+ Cognitive Distortion: A re-evaluation of the inputs and outcomes that an employee receives
+ Internal comparison: Comparing oneself to someone in your same company
+ External comparison: Comparing oneself to someone in a different company
+
+ Psychological Empowerment: An energy rooted in the belief that tasks are contributing to some larger purpose
+ Psychological Empowerment: Contribution -> Tasks -> Larger Purpose
+ Meaningfulness: A psychological state reflecting one's feelings about work tasks, goals, and purposes, and the degree to which they contribute to society
+ and fulfill one's ideals and passions
+ Meaningfulness -> Tasks -> Goals -> Purposes -> Society -> Ideals -> Passions
+ Self-determination: A sense of choice in the initation and continuation of work tasks
+ Self-determination -> Tasks -> Initation -> Continuation
+ Competence: The capability to perform work tasks successfully
+ Competence -> Tasks -> Successfully
+ Impact: The sense that a person's actions "make a difference" - that progress is being made toward fulfiling some important purpose
+ Impact: The degree to which one's work tasks influence the lives of others
+ Impact -> Actions -> Makes a difference
+
+ Expectancy Theory: (Motivating Forces): Expectancy -> Instrumentality -> Valence
 
  */
 
