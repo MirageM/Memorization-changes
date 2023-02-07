@@ -1,5 +1,39 @@
 /*
 
+Hofstede's Dimensions of Cultural Values:
+Individualism - Collectivism
+Individualism: The culture is a loosely knit social framework in which people take care of themselves
+and their immediate families only
+Individualism -> Take Care Of Themselves -> Families
+Collectivism: The culture is a sight social framework in which people take care of the members of a broader
+in-group and act loyally to it.
+Power Distance
+Low Power Distance: The culture perfers that power be distributed uniformly where possible, in a more egalitarian fashion
+Low Power Distance -> Equally -> Organizations
+High Power Distance: The culture accepts the fact that power is usually distributed unequally within organzations
+High Power Distance -> Unequally -> Organzations
+Uncertainty Avoidance
+Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situations and values unusual ideas and behaviors.
+High Uncertainty Avoidance: The culture feels threatened by uncertain and ambiguous situations and relies on formal rules to create stability
+Masculinity - Feminity
+Masculine: The culture values stereotypically male traits such as assertiveness and acquisition of money and things
+Feminine: The culture values stereotypically female traits such as caring for others and caring about quality of life
+Short Term - Long Term Orientation
+Short Term Oriented: The culture stresses vcalues that are more past and present oriented,
+such as respect for tradition and fulfilling obligations
+Long Term Oriented: The culture stresses values that are more future oriented, such as
+persistense, prudence, and thrift
+
+
+Hofstedes Dimensions of Culture Values:
+Individualism - Collectivism
+Power Distance (Low Power Distance - High Power Distance)
+Uncertainty Avoidance (Low Uncertainty Avoidance - High Uncertainty Avoidance)
+Masculinity - Femininity
+Short Term Orientation - Long Term Orientation
+
+
+
 Zero Acquaintance Situations: Situations in which two people have just met
 Satus Striving: The desire to be viewed as a high-status person
 Satus Striving: A strong desire to obtain power and influence within a social structure as a means
