@@ -1,4 +1,23 @@
 /*
+ Job Characteristics Model: A model that suggests that job characteristics can be grouped into five core dimensions
+    Job Characteristics Model -> Five Core Dimensions
+    Variety: The degree to which a job requires a variety of activities and skills
+    Variety -> Activities -> Skills
+    Identity: The degree to which a job provides a sense of personal accomplishment
+    Identity -> Sense of Personal Accomplishment
+    Significance: The degree to which a job has a substantial impact on the lives or work of other people
+    Significance -> Lives -> Work -> Other People
+    Autonomy: The degree to which a job provides freedom, independence, and discretion to the worker
+    Autonomy -> Freedom -> Independence -> Discretion
+    Feedback: The degree to which a job provides clear information about the effectiveness of one's performance
+ */
+
+
+
+
+
+
+/*
 
 Hofstede's Dimensions of Cultural Values:
 Individualism - Collectivism
