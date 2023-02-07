@@ -1,5 +1,11 @@
 /*
 
+Zero Acquaintance Situations: Situations in which two people have just met
+Satus Striving: The desire to be viewed as a high-status person
+Satus Striving: A strong desire to obtain power and influence within a social structure as a means
+of expressing one's personality
+
+
 
 Location and Type Stressors
 Primary: Is this stressful?
