@@ -1,6 +1,15 @@
 /*
+The Value Percept Theory:
+ (Paywant - Payhave) x Payimportant
+ (Promotionwant - Promotionhave) x Promotionimportant
+ (Supervisionwant - Supervisionhave) x SupervisionImportance
+ (Co-workerwant - Co-workerhave) x Co-workerImportance
+ (Workwant - Workhave) x WorkImportance
+
 Affective Commitment means that the employee is emotionally attached to the organization,
 this way the employee wants to work there and has a sense of belonging
+Affective Commitment -> Emotional Attachment -> Organization
+Continuance Commitment means the employee is working there for 
 
  Job Characteristics Model: A model that suggests that job characteristics can be grouped into five core dimensions
     Job Characteristics Model -> Five Core Dimensions
