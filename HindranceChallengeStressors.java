@@ -1,4 +1,7 @@
 /*
+Affective Commitment means that the employee is emotionally attached to the organization,
+this way the employee wants to work there and has a sense of belonging
+
  Job Characteristics Model: A model that suggests that job characteristics can be grouped into five core dimensions
     Job Characteristics Model -> Five Core Dimensions
     Variety: The degree to which a job requires a variety of activities and skills
