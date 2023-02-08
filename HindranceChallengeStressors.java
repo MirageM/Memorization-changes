@@ -1,4 +1,19 @@
 /*
+
+Page 61:
+Variety: The degree to which a job requires different activities and skills
+Identity: The degree to which a job offers completion of a while, identifiable piece of work
+Signifance: The degree to which a job really matters and impacts society as a whole
+Autonomy: The degree to which a job provides freedom, independence, and discretion to perform the work
+Feedback: The degree to which the job itself provides information about how well the 
+job jolder is doing; in goal setting theory, it referst o progress updates on work goals
+
+
+
+
+
+
+
 The Value Percept Theory:
  (Paywant - Payhave) x Payimportant
  (Promotionwant - Promotionhave) x Promotionimportant
