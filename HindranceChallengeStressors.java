@@ -3,6 +3,9 @@ Moods: States of feeling that are mild in intensity, last for an extended period
 not directed at anything
 Pleasantness: The degree to which an employee is in a good mood versus bad mood
 Pleasantness -> Good Mood -> Bad Mood
+Activation: The degree to which an employee is in a calm versus active mood
+Activation -> Calm -> Active
+Activaiton: The degre to which moods are aroused and active, as opposed to unaroused and inactive
 
 Job Enrichment: When job duties and responsibilities are expanded to provide increased levels of core job characteristics
 Job Enrichment -> Core Job Characteristics
