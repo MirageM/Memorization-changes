@@ -1,5 +1,11 @@
 /*
 
+Job Enrichment: When job duties and responsibilities are expanded to provide increased levels of core job characteristics
+Job Enrichment -> Core Job Characteristics
+Job Crafting: When employees actively change their jobs to make them more meaningful
+Job Crafting -> Meaningful
+Job Crafting: When employees shape, mould, and redefine their job in a proactive way
+
 Page 61:
 Variety: The degree to which a job requires different activities and skills
 Identity: The degree to which a job offers completion of a while, identifiable piece of work
@@ -7,9 +13,6 @@ Signifance: The degree to which a job really matters and impacts society as a wh
 Autonomy: The degree to which a job provides freedom, independence, and discretion to perform the work
 Feedback: The degree to which the job itself provides information about how well the 
 job jolder is doing; in goal setting theory, it referst o progress updates on work goals
-
-
-
 
 
 
