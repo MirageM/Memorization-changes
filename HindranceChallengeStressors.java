@@ -1,4 +1,8 @@
 /*
+Moods: States of feeling that are mild in intensity, last for an extended period of time, and are
+not directed at anything
+Pleasantness: The degree to which an employee is in a good mood versus bad mood
+Pleasantness -> Good Mood -> Bad Mood
 
 Job Enrichment: When job duties and responsibilities are expanded to provide increased levels of core job characteristics
 Job Enrichment -> Core Job Characteristics
