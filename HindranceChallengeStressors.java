@@ -2,6 +2,7 @@
 Psychological Empowerment: An intrinsic form of motivation derived from the belief that one's work tasks are 
 contributing to some larger purpose
 
+Zero Acquaintance Situations: Situation in which two people have just met
 
 Goal Setting Theory: Motivation is fosted when employees are given specific and difficult goals
  Equity Theory: Motivation is maximized when an emlpoyee's ratio of "outcomes" to "inputs"
