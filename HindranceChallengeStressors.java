@@ -1,4 +1,12 @@
 /*
+Psychological Empowerment: An intrinsic form of motivation derived from the belief that one's work tasks are 
+contributing to some larger purpose
+
+
+Goal Setting Theory: Motivation is fosted when employees are given specific and difficult goals
+ Equity Theory: Motivation is maximized when an emlpoyee's ratio of "outcomes" to "inputs"
+ matches those of some "comparison other"
+
  Valence: The anticipated value of the outcomes associated with successful performance
  Postive Valence: Prefer having the outcome (salary increases, bonuses)
  Postive Valence: Outcomes that satisfy needs are more positively valenced
