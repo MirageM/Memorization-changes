@@ -1,4 +1,7 @@
 /*
+Instrumentality: Performance -> Outcomes
+The belief that successful performance will result in certain outcomes
+
 Psychological Empowerment: An intrinsic form of motivation derived from the belief that one's work tasks are 
 contributing to some larger purpose
 Psychological Empowerment -> Intrisic Motivation -> Belief -> Work Tasks -> Larger Purpose
