@@ -1,4 +1,17 @@
 /*
+ Valence: The anticipated value of the outcomes associated with successful performance
+ Postive Valence: Prefer having the outcome (salary increases, bonuses)
+ Postive Valence: Outcomes that satisfy needs are more positively valenced
+ Negative Valence: Prefer not having outcome (disciplinary action, termination)
+ Zero Valence: No interest in outcome either way (bored with outcome)
+
+ */
+
+
+
+
+
+/*
 Moods: States of feeling that are mild in intensity, last for an extended period of time, and are
 not directed at anything
 Pleasantness: The degree to which an employee is in a good mood versus bad mood
