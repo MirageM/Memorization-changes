@@ -1,7 +1,7 @@
 /*
 Psychological Empowerment: An intrinsic form of motivation derived from the belief that one's work tasks are 
 contributing to some larger purpose
-
+Psychological Empowerment -> Intrisic Motivation -> Belief -> Work Tasks -> Larger Purpose
 Zero Acquaintance Situations: Situation in which two people have just met
 
 Goal Setting Theory: Motivation is fosted when employees are given specific and difficult goals
