@@ -1,4 +1,6 @@
 /*
+Cognitive Distortion: A negative thought pattern that leads to irrational beliefs and emotions
+
 Expectancy Theory: A theory that describes the cognitive process employees go through to make choices among different voluntary responses
 Expectancy Theory -> Cognitive Process Employees Go Through
 Expectancy -> Intrumentality -> Valence
