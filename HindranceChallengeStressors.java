@@ -1,4 +1,9 @@
 /*
+Expectancy Theory: A theory that describes the cognitive process employees go through to make choices among different voluntary responses
+Expectancy Theory -> Cognitive Process Employees Go Through
+
+
+
  Psychological Empowerment
  Meaningfulness:
  Self-determination:
@@ -7,7 +12,7 @@
 
  What is Psychological Empowerment, and what four beliefs determine empowerment levels?
  Pyscholgical Empowerment is an intrinsic form of motivation derived from the belief that one's work tasks are contributing to some larger purpose. 
- The four beliefs that determine empowerment levels are: Meaningfulnes, Self-determination, Competence, and Impact.
+ The four beliefs that determine empowerment levels are: Meaningfulnes, Self-determination, Competence, and Impact. 
 
 
 
