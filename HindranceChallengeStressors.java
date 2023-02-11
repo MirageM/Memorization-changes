@@ -1,4 +1,7 @@
 /*
+Civic Virtue: Participating in organizaitons deeper than normal
+
+
 Psychological Contracts: Employees belief of what they owe the organizaiton and what the organization owes them
 Transactional Contracts: Psychological contracts that are based on explicit, formal agreements between the employee and the organization
 Tranactional Contracts -> Just there to make money
