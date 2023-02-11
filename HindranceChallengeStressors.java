@@ -1,5 +1,6 @@
 /*
 Civic Virtue: Participating in organizaitons deeper than normal
+Boosterism: Talking about positive aspects of the organizations only (Keeping negative aspects to yourself)
 
 
 Psychological Contracts: Employees belief of what they owe the organizaiton and what the organization owes them
