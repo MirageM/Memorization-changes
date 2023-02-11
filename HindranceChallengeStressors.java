@@ -1,7 +1,7 @@
 /*
 Expectancy Theory: A theory that describes the cognitive process employees go through to make choices among different voluntary responses
 Expectancy Theory -> Cognitive Process Employees Go Through
-
+Expectancy -> Intrumentality -> Valence
 
 
  Psychological Empowerment
