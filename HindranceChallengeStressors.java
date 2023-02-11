@@ -1,5 +1,7 @@
 /*
 
+Benign Job Demands: Job demands that are not stressful
+
 Management by Objective (MBO): A management approach that involves setting specific goals for employees
 Management by Objective (MBO): Setting Specific Goals -> Employees
 
