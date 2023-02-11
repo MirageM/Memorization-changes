@@ -1,4 +1,13 @@
 /*
+Psychological Contracts: Employees belief of what they owe the organizaiton and what the organization owes them
+Transactional Contracts: Psychological contracts that are based on explicit, formal agreements between the employee and the organization
+Tranactional Contracts -> Just there to make money
+Relational Contracts: Psychological contracts that are based on implicit, informal agreements between the employee and the organization
+Relational Contracts -> More than just money
+*/
+
+
+/*
 Instrumentality: Performance -> Outcomes
 The belief that successful performance will result in certain outcomes
 
@@ -18,10 +27,6 @@ Goal Setting Theory: Motivation is fosted when employees are given specific and 
  Zero Valence: No interest in outcome either way (bored with outcome)
 
  */
-
-
-
-
 
 /*
 Moods: States of feeling that are mild in intensity, last for an extended period of time, and are
