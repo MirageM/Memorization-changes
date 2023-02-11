@@ -1,5 +1,16 @@
 /*
-Cognitive Distortion: A negative thought pattern that leads to irrational beliefs and emotions
+ Power Distance: The degree to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally.
+ Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion.
+ High Power Distance: The culture accepts the fact that power is usually distributed unequally within organizations.
+ Uncertainty Avoidance: The degree to which the members of a culture feel threatened by ambiguous or unknown situations.
+ */
+
+
+
+
+
+/*
+Cognitive Distortion: A negative thought pattern that leads to irrational beliefs and
 
 Expectancy Theory: A theory that describes the cognitive process employees go through to make choices among different voluntary responses
 Expectancy Theory -> Cognitive Process Employees Go Through
