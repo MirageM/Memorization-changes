@@ -4,6 +4,8 @@ Transactional Contracts: Psychological contracts that are based on explicit, for
 Tranactional Contracts -> Just there to make money
 Relational Contracts: Psychological contracts that are based on implicit, informal agreements between the employee and the organization
 Relational Contracts -> More than just money
+Relational Contract (Family Exchange)
+Relational Contract -> Open Ended -> Broad Sense of Obligations
 */
 
 
