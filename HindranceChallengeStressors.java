@@ -5,6 +5,9 @@ Benign Job Demands: Job demands that are not stressful
 Management by Objective (MBO): A management approach that involves setting specific goals for employees
 Management by Objective (MBO): Setting Specific Goals -> Employees
 
+360-Degree Feedback: A performance evaluation system that uses ratings provided by supervisors, co-workers, subordinates, customers, and the employees themselves.
+360-Degree Feedback -> Rating Scales
+
 Behaviourally Anchored Rating Scales (BARS): Evaluations based off critical incidents on an employee's job performance behaviors directly observed by the supervisor
 
 Goal Setting Theory: Motivation is fostered when employees are given specific and difficult goals
