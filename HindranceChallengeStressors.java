@@ -1,7 +1,14 @@
 /*
+
+Management by Objective (MBO): A management approach that involves setting specific goals for employees
+Management by Objective (MBO): Setting Specific Goals -> Employees
+
+Behaviourally Anchored Rating Scales (BARS): Evaluations based off critical incidents on an employee's job performance behaviors directly observed by the supervisor
+
+Goal Setting Theory: Motivation is fostered when employees are given specific and difficult goals
+
 Civic Virtue: Participating in organizaitons deeper than normal
 Boosterism: Talking about positive aspects of the organizations only (Keeping negative aspects to yourself)
-
 
 Psychological Contracts: Employees belief of what they owe the organizaiton and what the organization owes them
 Transactional Contracts: Psychological contracts that are based on explicit, formal agreements between the employee and the organization
