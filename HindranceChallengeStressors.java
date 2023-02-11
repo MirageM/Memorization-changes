@@ -1,4 +1,20 @@
 /*
+ Psychological Empowerment
+ Meaningfulness:
+ Self-determination:
+ Competence:
+ Impact:
+
+ What is Psychological Empowerment, and what four beliefs determine empowerment levels?
+ Pyscholgical Empowerment is an intrinsic form of motivation derived from the belief that one's work tasks are contributing to some larger purpose. 
+ The four beliefs that determine empowerment levels are: Meaningfulnes, Self-determination, Competence, and Impact.
+
+
+
+ */
+
+
+/*
 
 Benign Job Demands: Job demands that are not stressful
 
