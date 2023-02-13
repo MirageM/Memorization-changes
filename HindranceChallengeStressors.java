@@ -4,6 +4,13 @@
  Uncertainty Avoidance: The degree to which a culture tolerates ambiguous (low uncertainty avoidance) or feels threatened by them (high uncertainty avoidance)
  Masculinity-Feminity: The degree to which a culture values stereotypically male traits (masculinity) or stereotypically female traits(feminity)
  Short-term Orientation-Long-term Orientation: The degree to which a culture stresses values that are past and present oriented (short-term orientation) or future-oriented (long-term orientation)
+
+ Individualistic: The culture is loosely knit social framework in which people take care of themselves and their immediate family
+ Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it.
+ Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion
+ High Power Distance: The culture accepts the fact power is usally distributed unequally within organizations
+ Low Uncertainty Avoidance: The culuture tolerates uncertain and ambiguous situations and values unusual ideas and behaviors
+ High Uncertainty Avoidance: The culture feels threatened by ambiguous situations and relies on formal rules to create stability
  */
 
 
