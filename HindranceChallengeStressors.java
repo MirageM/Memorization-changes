@@ -1,12 +1,16 @@
 /*
+ Individualism-Collectivism: The degree to which a culture has a loosely knit social framework (individualism) or a tight social framework (collectivism)
+ Power Distance: The degree to which a culture prefers equal power distribution (low power distance) or an unequal power distribution (high power distance)
+ Uncertainty Avoidance: The degree to which a culture tolerates ambiguous (low uncertainty avoidance) or feels threatened by them (high uncertainty avoidance)
+ */
+
+
+/*
  Power Distance: The degree to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally.
  Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion.
  High Power Distance: The culture accepts the fact that power is usually distributed unequally within organizations.
  Uncertainty Avoidance: The degree to which the members of a culture feel threatened by ambiguous or unknown situations.
  */
-
-
-
 
 
 /*
