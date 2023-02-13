@@ -2,6 +2,8 @@
  Individualism-Collectivism: The degree to which a culture has a loosely knit social framework (individualism) or a tight social framework (collectivism)
  Power Distance: The degree to which a culture prefers equal power distribution (low power distance) or an unequal power distribution (high power distance)
  Uncertainty Avoidance: The degree to which a culture tolerates ambiguous (low uncertainty avoidance) or feels threatened by them (high uncertainty avoidance)
+ Masculinity-Feminity: The degree to which a culture values stereotypically male traits (masculinity) or stereotypically female traits(feminity)
+ Short-term Orientation-Long-term Orientation: The degree to which a culture stresses values that are past and present oriented (short-term orientation) or future-oriented (long-term orientation)
  */
 
 
