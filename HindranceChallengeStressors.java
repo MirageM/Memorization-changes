@@ -7,7 +7,8 @@
  High Uncertainty Avoidance: The culture feels threatened by uncertain and ambiguous situations and relies on formal rules to create stability
  Masculinity: The culture values stereotypically male traits such as assertiveness and acquisition of money and things
  Feminity: The culture values stereotypically female traits such as caring for others and caring about quality of life
- 
+ Short Term Orientation: The culture stresses values that are more past and present oriented, such as respect for tradition and fulling obligations
+ Long Term Orientation: The culuture stresses vallues that are more future oriented, such as persistence, prudence, and thrift
 
  */
 
