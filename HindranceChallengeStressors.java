@@ -1,6 +1,9 @@
 /*
  Individualistic: The culture is loosely knit social framwork in which people take care of themselves and their immediate family
  Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it
+ Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion
+ High Power Distance: The culture accepts the fact that power is usually distributed unequally within organizaitons
+ 
  */
 
 
