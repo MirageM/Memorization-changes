@@ -5,7 +5,10 @@
  High Power Distance: The culture accepts the fact that power is usually distributed unequally within organizaitons
  Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situations and values unusual ideas and behaviors
  High Uncertainty Avoidance: The culture feels threatened by uncertain and ambiguous situations and relies on formal rules to create stability
+ Masculinity: The culture values stereotypically male traits such as assertiveness and acquisition of money and things
+ Feminity: The culture values stereotypically female traits such as caring for others and caring about quality of life
  
+
  */
 
 
