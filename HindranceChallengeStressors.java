@@ -1,4 +1,11 @@
 /*
+ Individualistic: The culture is loosely knit social framwork in which people take care of themselves and their immediate family
+ Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it
+ */
+
+
+
+/*
  Individualism-Collectivism: The degree to which a culture has a loosely knit social framework (individualism) or a tight social framework (collectivism)
  Power Distance: The degree to which a culture prefers equal power distribution (low power distance) or an unequal power distribution (high power distance)
  Uncertainty Avoidance: The degree to which a culture tolerates ambiguous (low uncertainty avoidance) or feels threatened by them (high uncertainty avoidance)
