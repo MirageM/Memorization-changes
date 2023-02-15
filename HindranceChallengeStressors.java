@@ -6,6 +6,11 @@ Collectivistic
 Low Power Distance
 High Power Distance
 Low Uncertainty Avoidance
+High Uncertainty Avoidance
+Masculinity
+Feminity
+Short Term Orientation
+Long Term Orientation
 
  Individualistic: The culture is loosely knit social framwork in which people take care of themselves and their immediate family
  Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it
