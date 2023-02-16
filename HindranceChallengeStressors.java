@@ -1,11 +1,11 @@
 /*
 
 Hofstede's Dimensions of Culture Values
-Individualistic
-Collectivistic
-Low Power Distance
-High Power Distance
-Low Uncertainty Avoidance
+Individualistic: The culture is looely knit social framework in which people take care of themselves and their immediate family
+Collectivistic: The culture is a tight social framework in which people take are of the members of a broader in-group and act loyally to it
+Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion
+High Power Distance: The culture accepts the fact that power is usally distributed unequally within organizaitons
+Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situations and values unusualy ideas and behaviors
 High Uncertainty Avoidance
 Masculinity
 Feminity
