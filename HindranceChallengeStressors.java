@@ -9,8 +9,8 @@ Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situati
 High Uncertainty Avoidance: The culture feels threaten by uncertain and ambiguous situations and relies on formal rules to create stability
 Masculinity: The culture values sterotypically male traits such as assertiveness and acquisition of money and things
 Feminity: The culture values stereotypically female traits such as caring for others and caring about quality of life
-Short Term Orientation
-Long Term Orientation
+Short Term Orientation: The cultures stresses values that are more past and present oriented, such as respect for tradition and fulfilling obligations
+Long Term Orientation: The culture stresses values that are more future oriented, such as persistence, prudence, and thrift
 
  Individualistic: The culture is loosely knit social framwork in which people take care of themselves and their immediate family
  Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it
