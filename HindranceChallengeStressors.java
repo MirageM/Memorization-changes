@@ -6,9 +6,9 @@ Collectivistic: The culture is a tight social framework in which people take are
 Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion
 High Power Distance: The culture accepts the fact that power is usally distributed unequally within organizaitons
 Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situations and values unusualy ideas and behaviors
-High Uncertainty Avoidance
-Masculinity
-Feminity
+High Uncertainty Avoidance: The culture feels threaten by uncertain and ambiguous situations and relies on formal rules to create stability
+Masculinity: The culture values sterotypically male traits such as assertiveness and acquisition of money and things
+Feminity: The culture values stereotypically female traits such as caring for others and caring about quality of life
 Short Term Orientation
 Long Term Orientation
 
