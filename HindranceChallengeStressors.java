@@ -1,4 +1,18 @@
 /*
+ Positive Reinforcement: Postive outcome follows a desired behavior
+ Negative Reinforcement; an unwanted outcome is removed following a desired behavior
+ Punishment: An unwanted outcome follows an undesired behavior
+ Extinction: The removal of a consequence following an undesired behavior
+ */
+
+
+
+
+/*
+
+Explicit Knowledge
+Tacit Knowledge
+
 The Four Component Model of Ethical Decision Making:
 1. Moral Awareness: Occurs when an authority recongizes that a moral issue exists in a situation or that an ethical code or principle is relevant to the circumstance
 2. Moral Judgement: The second step requires a moral judgement, which reflects the process people use to determine whether a particular course of action is ethical or unethical
