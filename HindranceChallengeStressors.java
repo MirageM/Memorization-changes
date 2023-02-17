@@ -1,4 +1,14 @@
 /*
+ Affect Based Trust: Few Relationships
+ Cognitive Based Trust: Most Relationships
+ Disposition Based Trust: New Relationships
+ */
+
+
+
+
+
+/*
 
 Hofstede's Dimensions of Culture Values
 Individualistic: The culture is looely knit social framework in which people take care of themselves and their immediate family
