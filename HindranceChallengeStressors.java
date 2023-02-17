@@ -2,8 +2,8 @@
 The Four Component Model of Ethical Decision Making:
 1. Moral Awareness: Occurs when an authority recongizes that a moral issue exists in a situation or that an ethical code or principle is relevant to the circumstance
 2. Moral Judgement: The second step requires a moral judgement, which reflects the process people use to determine whether a particular course of action is ethical or unethical
-3. Moral Intention
-4. Ethical Behavior
+3. Moral Intent: The third step involves moral intent, which is the process by which people decide to act ethically or unethically
+4. Ethical Behavior: The final step is ethical behavior, which is the process by which people actually act in an ethical manner
 
  Affect Based Trust: Few Relationships
  Cognitive Based Trust: Most Relationships
