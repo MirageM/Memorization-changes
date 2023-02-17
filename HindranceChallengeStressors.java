@@ -1,4 +1,10 @@
 /*
+The Four Component Model of Ethical Decision Making:
+1. Moral Awareness
+2. Moral Judgement
+3. Moral Intention
+4. Ethical Behavior
+
  Affect Based Trust: Few Relationships
  Cognitive Based Trust: Most Relationships
  Disposition Based Trust: New Relationships
