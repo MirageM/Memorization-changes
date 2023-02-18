@@ -3,6 +3,9 @@
  Learning: A relatively permanent change in an employee's knowledge or skill that results from experience
  Decision Making: The process of generating and choosing from a set of alternatives to solve a problem
 
+ Expertise: The knowledge and skills that distinguish experts from novices
+ Expertise -> Knowledge and Skills -> Distinguish Experts from Novices
+
  Explicit Knowledge: Knowledge that is easily communicated and available to everyone
  Explicit Knowledge -> Knowledge -> Easily Communicated -> Available to Everyone
  Tacit Knowledge: Knowledge that employees can only learn through experience
