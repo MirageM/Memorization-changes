@@ -1,12 +1,19 @@
+
+/*
+ Learning: A relatively permanent change in an employee's knowledge or skill that results from experience
+ Decision Making: The process of generating and choosing from a set of alternatives to solve a problem
+ */
+
+
+
+
+
 /*
  Positive Reinforcement: Postive outcome follows a desired behavior
  Negative Reinforcement; an unwanted outcome is removed following a desired behavior
  Punishment: An unwanted outcome follows an undesired behavior
  Extinction: The removal of a consequence following an undesired behavior
  */
-
-
-
 
 /*
 
