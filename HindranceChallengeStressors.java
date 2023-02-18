@@ -10,6 +10,11 @@
  Explicit Knowledge -> Knowledge -> Easily Communicated -> Available to Everyone
  Tacit Knowledge: Knowledge that employees can only learn through experience
  Tacit Knowledge -> Knowledge -> Only Learn Through Experience
+
+ Positive Reinforcement: Consequence is added and wanted outcome
+ Extinction: Consequence is removed and wanted outcome
+ Punishment: Consequence is added and unwanted outcome
+ Negative Reinfocement: Consequence is removed and unwanted outcome
  */
 
 
