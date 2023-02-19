@@ -17,6 +17,7 @@
  Negative Reinfocement: Consequence is removed and unwanted outcome
 
  Contingencies of Reinforcement: Postive Reinforcement, Punishment, Negative Reinforcement, Extinction
+ The Modelling Process: Attentional Processes, Retention Processes, Production Processes, Reinforcement
  */
 
 
