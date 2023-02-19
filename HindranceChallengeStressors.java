@@ -15,6 +15,8 @@
  Extinction: Consequence is removed and wanted outcome
  Punishment: Consequence is added and unwanted outcome
  Negative Reinfocement: Consequence is removed and unwanted outcome
+
+ Contingencies of Reinforcement: Postive Reinforcement, Punishment, Negative Reinforcement, Extinction
  */
 
 
