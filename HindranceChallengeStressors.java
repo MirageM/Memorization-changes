@@ -18,6 +18,8 @@
 
  Contingencies of Reinforcement: Postive Reinforcement, Punishment, Negative Reinforcement, Extinction
  The Modelling Process: Attentional Processes, Retention Processes, Production Processes, Reinforcement
+ 
+ Decision Making Problems: Limited Information, Faulty Perceptions, Faulty Attributions, Escalation of Commitment
  */
 
 
