@@ -21,6 +21,7 @@
  
  Decision Making Problems: Limited Information, Faulty Perceptions, Faulty Attributions, Escalation of Commitment
 
+ Trainning: A systematic effort by organizations to faciliate the learning of job related knowledge and behavior
  Knowledge transfer: The exchange of knowledge between employees
  Behavior modelling trainning: When employees observe the actions of others, learn from what they observe and then repeat the observed behavior.
  Communities of practice: Groups of employees who learn from another through collaboration over an extended period of time
