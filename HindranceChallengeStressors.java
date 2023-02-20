@@ -23,6 +23,9 @@
 
  Knowledge transfer: The exchange of knowledge between employees
  Behavior modelling trainning: When employees observe the actions of others, learn from what they observe and then repeat the observed behavior.
+ Communities of practice: Groups of employees who learn from another through collaboration over an extended period of time
+ Transfer of trainning: Occurs when employees retain and demonstrates the knowledge, skills and behaviors required for their job after training ends
+ Climate for transfer: An organizational environment that supports the use of new skills
  */
 
 
