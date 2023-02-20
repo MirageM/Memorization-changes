@@ -20,6 +20,9 @@
  The Modelling Process: Attentional Processes, Retention Processes, Production Processes, Reinforcement
  
  Decision Making Problems: Limited Information, Faulty Perceptions, Faulty Attributions, Escalation of Commitment
+
+ Knowledge transfer: The exchange of knowledge between employees
+ Behavior modelling trainning: When employees observe the actions of others, learn from what they observe and then repeat the observed behavior.
  */
 
 
