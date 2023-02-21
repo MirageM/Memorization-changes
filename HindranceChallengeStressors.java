@@ -1,9 +1,9 @@
 
 /*
 Communication
-Face to face communication
-Verbal communication
-Nonverbal communication
+Face to face communication: The exchange of information and meaning when one or more indivudals are physically present and where communication occurs without the aid of any mediating technology
+Verbal communication: A form of communication in which messages are sent and recieved using written and spoken language
+Nonverbal communication: Any form of information exchange that doesn't involve spoken or written words
 Computer mediated communication
 Email
 Videoconferencing
