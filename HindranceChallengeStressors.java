@@ -4,9 +4,9 @@ Communication
 Face to face communication: The exchange of information and meaning when one or more indivudals are physically present and where communication occurs without the aid of any mediating technology
 Verbal communication: A form of communication in which messages are sent and recieved using written and spoken language
 Nonverbal communication: Any form of information exchange that doesn't involve spoken or written words
-Computer mediated communication
-Email
-Videoconferencing
+Computer mediated communication: The exchange of information and meaning using an electronic, digital medium
+Email: A popular method of exchanging written digital messages from an author to one or more recipients
+Videoconferencing: A communicaiton medium that permids real-time, live interaction and discussion between remote individuals or groups via satellite or internet
 
 
 
