@@ -1,5 +1,16 @@
 
-/*Explicit Knowledge Tacit Knowledge */
+/*
+Communication
+Face to face communication
+Verbal communication
+Nonverbal communication
+Computer mediated communication
+Email
+Videoconferencing
+
+
+
+/
 
 
 
