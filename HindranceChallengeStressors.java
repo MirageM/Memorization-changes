@@ -1,5 +1,10 @@
 
 /*
+Noise: Disturbing or distracting stimuli that block or interfere with the transmision of a message
+
+
+
+
 Communication
 Face to face communication: The exchange of information and meaning when one or more indivudals are physically present and where communication occurs without the aid of any mediating technology
 Verbal communication: A form of communication in which messages are sent and recieved using written and spoken language
