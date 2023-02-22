@@ -1,6 +1,7 @@
 
 /*
 Noise: Disturbing or distracting stimuli that block or interfere with the transmision of a message
+Information richness: The amount and dept of information transmitted in a message
 
 
 
