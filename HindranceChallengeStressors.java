@@ -6,7 +6,9 @@ Upward Communication: Communication that flows from the bottom to the top o the 
 Horizontal Communication: Communication that flows between people at the same level
 Horizontal Communication: Communication that flows among members of work groups, teams, or functional units who reside at the same level in the organization's hierarchy
 
-
+All Channel Network Structure: A communication network in which any member can send and receive messages from any other
+Circle Network Structure: A communication network in which members send and receive messages from indivduals who are immediately adjacent to them 
+Chain Network Structure: A communication network in which information is passed from member to member, from one end of the chain to the other
 
 
 
