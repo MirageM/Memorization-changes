@@ -1,9 +1,10 @@
 
 /*
 Communication Networks
-Downward Communication
-Upward Communication
-Horizontal Communication
+Downward Communication: Communication that flows from the top to the bottom of the vertical channel
+Upward Communication: Communication that flows from the bottom to the top o the vertical channel
+Horizontal Communication: Communication that flows between people at the same level
+Horizontal Communication: Communication that flows among members of work groups, teams, or functional units who reside at the same level in the organization's hierarchy
 
 
 
