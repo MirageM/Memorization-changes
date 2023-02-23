@@ -1,5 +1,14 @@
 
 /*
+Communication Networks
+Downward Communication
+Upward Communication
+Horizontal Communication
+
+
+
+
+
 Noise: Disturbing or distracting stimuli that block or interfere with the transmision of a message
 Information richness: The amount and dept of information transmitted in a message
 Gender differences: Different ways men and women tend to process and interpret information and communicate with others
