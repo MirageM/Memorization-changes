@@ -11,7 +11,10 @@ Circle Network Structure: A communication network in which members send and rece
 Chain Network Structure: A communication network in which information is passed from member to member, from one end of the chain to the other
 Y Network Structure: A communication network in which one member controls the flow of information between one set of members and another
 Wheel Network Structure: A communication network in which all communication between members is controlled by a single member
-
+Informal communication networks: Spontaneous and emergent patterns of communication that result from the choices individuals make on their own
+Grapevine: The primary informal communication network within an organization
+Rumours: Messages that travel along the grapevine that lack evidence as to their truth or validity
+Gossip: Rumours about other people
 
 Noise: Disturbing or distracting stimuli that block or interfere with the transmision of a message
 Information richness: The amount and dept of information transmitted in a message
