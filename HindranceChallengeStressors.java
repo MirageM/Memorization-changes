@@ -9,7 +9,8 @@ Horizontal Communication: Communication that flows among members of work groups,
 All Channel Network Structure: A communication network in which any member can send and receive messages from any other
 Circle Network Structure: A communication network in which members send and receive messages from indivduals who are immediately adjacent to them 
 Chain Network Structure: A communication network in which information is passed from member to member, from one end of the chain to the other
-
+Y Network Structure: A communication network in which one member controls the flow of information between one set of members and another
+Wheel Network Structure: A communication network in which all communication between members is controlled by a single member
 
 
 Noise: Disturbing or distracting stimuli that block or interfere with the transmision of a message
