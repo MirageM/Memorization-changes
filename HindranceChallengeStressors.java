@@ -1,5 +1,14 @@
 
 /*
+   Team Characteristics
+   Team: Two or more people who work interdependently over some time period to accomplish common goals related to some task-oriented purpose
+ 
+ */
+
+
+
+/*
+
 Supervisor Feedback: A form of downward communication in which the supervisor provides information to a subordinate about their job performance
 Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
 Reliability: The extend to which the selection procedure is free from random error
