@@ -15,6 +15,8 @@
 
    Team Composition: Member Roles -> Member Ability -> Member Personality -> Team Diversity -> Team Size
    Role: A pattern of behavior a person is generally expected to display in a given context
+   Team Task Roles: Behaviors that direcly faciliate the acomplishment of team tasks
+   Individualistic roles: Behaviors that benefit the individual at the expense of the team
  */
 
 
