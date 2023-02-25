@@ -3,6 +3,9 @@
    Team Characteristics
    Team: Two or more people who work interdependently over some time period to accomplish common goals related to some task-oriented purpose
  
+   Work Team: Relatively permanent teams in which members work together to produce goods and/or provide services
+   Management Team: Relatively permanent teams that participate in managerial-level tasks that affect the entire organzation
+   Parallel Teams:  Teams composed of members from various jobs within the organzation that meet to provide recommendations about important issues
  */
 
 
