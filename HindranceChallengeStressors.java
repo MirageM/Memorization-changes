@@ -6,6 +6,8 @@
    Work Team: Relatively permanent teams in which members work together to produce goods and/or provide services
    Management Team: Relatively permanent teams that participate in managerial-level tasks that affect the entire organzation
    Parallel Teams:  Teams composed of members from various jobs within the organzation that meet to provide recommendations about important issues
+   Project Teams: Teams formed to take on a one-time tasks, most of which tend to be complex and require input from members from different functional areas
+   Action Teams: Teams of limited duration that perform complex tasks in contexts that tend to be highly visible and challenging
  */
 
 
