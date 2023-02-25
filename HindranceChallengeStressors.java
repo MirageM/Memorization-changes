@@ -12,6 +12,9 @@
    Two Models of Team Development:
    Forming -> Forming -> Norming -> Performing -> Adjourning
    Forming and Pattern Creation -> Inertia -> Process Revision -> Inertia
+
+   Team Composition: Member Roles -> Member Ability -> Member Personality -> Team Diversity -> Team Size
+   Role: A pattern of behavior a person is generally expected to display in a given context
  */
 
 
