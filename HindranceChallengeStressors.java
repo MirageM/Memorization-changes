@@ -17,6 +17,10 @@
    Role: A pattern of behavior a person is generally expected to display in a given context
    Team Task Roles: Behaviors that direcly faciliate the acomplishment of team tasks
    Individualistic roles: Behaviors that benefit the individual at the expense of the team
+   Team-Building Roles: Behaviours that infleunce the quality of the team's social climate
+   Team diversity: The degree to which team members are different from one another
+   
+
  */
 
 
