@@ -2,6 +2,13 @@
 /*
 
    Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
+   Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
+
+
+
+
+
+
 
    Team Process: The different types of activities and interactions that occur within a team as the team works toward its goals
    Team Process -> Works Toward Goals
