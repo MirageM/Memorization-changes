@@ -1,12 +1,15 @@
 
 /*
 
+   Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
+
    Team Process: The different types of activities and interactions that occur within a team as the team works toward its goals
    Team Process -> Works Toward Goals
    Process Gain: Achievement of team outcomes greater than those one would expect on the basis of the capabilities of the individual members
    Process Gain Means Greater Outcomes
    Process Loss: Achievement of team outcomes less than those would expect on the basis of the capabilties of the individual members
    Process Loss Means Less Outcome
+
 
 
    Team Characteristics
