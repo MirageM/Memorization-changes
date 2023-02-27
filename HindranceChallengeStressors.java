@@ -1,5 +1,8 @@
 
 /*
+
+   Team Process: The different types of activities and interactions that occur within a team as the team works toward its goals
+
    Team Characteristics
    Team: Two or more people who work interdependently over some time period to accomplish common goals related to some task-oriented purpose
  
@@ -20,6 +23,8 @@
    Team-Building Roles: Behaviours that infleunce the quality of the team's social climate
    Team diversity: The degree to which team members are different from one another
    
+
+
 
  */
 
