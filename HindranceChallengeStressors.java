@@ -3,7 +3,7 @@
 
    Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
    Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
-
+   Interpersonal Processes: Teamwork processes, such as motivating and confidence building that focus on the management of relationships among team members
 
 
 
