@@ -7,7 +7,7 @@
    Accomodating -> Lose(Assertive) -> Win(Cooperative)
 
    Distributive Bargaining: A negotiation strategy in which one person gains and the other person loses
-
+   Integrative Bargaining: A negotiation strategy that achieves an outcome that is satisfying for both parties
 
 
 
