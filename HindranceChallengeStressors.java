@@ -16,6 +16,7 @@
    Process Gain Means Greater Outcomes
    Process Loss: Achievement of team outcomes less than those would expect on the basis of the capabilties of the individual members
    Process Loss Means Less Outcome
+   Task Processes: The activities of team members that directly relate to the accomplishment of team tasks
 
 
 
