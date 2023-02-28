@@ -9,7 +9,7 @@
    Distributive Bargaining: A negotiation strategy in which one person gains and the other person loses
    Integrative Bargaining: A negotiation strategy that achieves an outcome that is satisfying for both parties
 
-
+   Leader Effectiveness: The degree to which the leader's actions result in the achievement of the unit's goals, the continued commitment of the unit's employees, and the development of mutual trust, respect, and obligation in leader
 
 
    Team State: Cohesion, Potency, Mental Models, Transactive Memory
