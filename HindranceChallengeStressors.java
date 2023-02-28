@@ -1,10 +1,12 @@
 
 /*
-   Styles of Conflict
+   Styles of Conflict -> CACA
    Competing -> Win(Assertive) -> Lose(Cooperative)
    Avoiding -> Lose(Assertive) -> Lose(Cooperatie)
    Collaborating -> Win(Assertive) -> Win(Cooperative)
    Accomodating -> Lose(Assertive) -> Win(Cooperative)
+
+   Distributive Bargaining: A negotiation strategy in which one person gains and the other person loses
 
 
 
