@@ -1,5 +1,15 @@
 
 /*
+   Styles of Conflict
+   Competing -> Win(Assertive) -> Lose(Cooperative)
+   Avoiding -> Lose(Assertive) -> Lose(Cooperatie)
+   Collaborating -> Win(Assertive) -> Win(Cooperative)
+   Accomodating -> Lose(Assertive) -> Win(Cooperative)
+
+
+
+
+
    Team State: Cohesion, Potency, Mental Models, Transactive Memory
    Cohesion -> Emotional Bonds
    Potency -> Confidence
