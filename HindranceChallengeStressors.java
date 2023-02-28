@@ -10,7 +10,7 @@
    Integrative Bargaining: A negotiation strategy that achieves an outcome that is satisfying for both parties
 
    Leader Effectiveness: The degree to which the leader's actions result in the achievement of the unit's goals, the continued commitment of the unit's employees, and the development of mutual trust, respect, and obligation in leader
-
+   Leader Emergence: The process of becoming a leader in the first place
 
    Team State: Cohesion, Potency, Mental Models, Transactive Memory
    Cohesion -> Emotional Bonds
