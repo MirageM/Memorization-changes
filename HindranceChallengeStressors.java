@@ -1,6 +1,10 @@
 
 /*
    Delegative Style -> Facilitative Syle -> Consultative Style -> Autocratic Style
+   Telling: When the leader provides specific instructions and closely supervises performance
+   Selling: When the leader explains key issues and provides opportunities for clarification
+   Participating: Leader behavior in which the leader shares ideas and tries to help the group conduct its affairs
+   Delegating: Leader behavior in which the leader turns responsibility for key behaviors over to employees
 
    Leadership: The use of power and influence to direct the activities of followers toward goal achievement
    Leader-Member Exchange Theory: A theory describing how leader-member relationships develop over time on a dyadic basis
