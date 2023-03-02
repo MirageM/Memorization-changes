@@ -1,5 +1,7 @@
 
 /*
+   Delegative Style -> Facilitative Syle -> Consultative Style -> Autocratic Style
+
    Leadership: The use of power and influence to direct the activities of followers toward goal achievement
    Leader-Member Exchange Theory: A theory describing how leader-member relationships develop over time on a dyadic basis
    Role Taking: The phase in a leader-follower relationship when a leader provides an employee with job expectations and the follower tries to meet those expectations. 
