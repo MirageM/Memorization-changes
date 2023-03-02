@@ -1,5 +1,10 @@
 
 /*
+   Leadership: The use of power and influence to direct the activities of followers toward goal achievement
+   Leader-Member Exchange Theory: A theory describing how leader-member relationships develop over time on a dyadic basis
+   Role Taking: The phase in a leader-follower relationship when a leader provides an employee with job expectations and the follower tries to meet those expectations. 
+   Role Making: The phase in a leader-follower relationship when a follower voices their own expectations for the relationship, resulting in a free-flowing exchange of opportunities and resources for activities and effort
+
    Styles of Conflict -> CACA
    Competing -> Win(Assertive) -> Lose(Cooperative)
    Avoiding -> Lose(Assertive) -> Lose(Cooperatie)
