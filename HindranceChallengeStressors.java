@@ -1,75 +1,7 @@
-
-/*
-   Delegative Style -> Facilitative Syle -> Consultative Style -> Autocratic Style
-   Telling: When the leader provides specific instructions and closely supervises performance
-   Selling: When the leader explains key issues and provides opportunities for clarification
-   Participating: Leader behavior in which the leader shares ideas and tries to help the group conduct its affairs
-   Delegating: Leader behavior in which the leader turns responsibility for key behaviors over to employees
-
-   Leadership: The use of power and influence to direct the activities of followers toward goal achievement
-   Leader-Member Exchange Theory: A theory describing how leader-member relationships develop over time on a dyadic basis
-   Role Taking: The phase in a leader-follower relationship when a leader provides an employee with job expectations and the follower tries to meet those expectations. 
-   Role Making: The phase in a leader-follower relationship when a follower voices their own expectations for the relationship, resulting in a free-flowing exchange of opportunities and resources for activities and effort
-
-   Styles of Conflict -> CACA
-   Competing -> Win(Assertive) -> Lose(Cooperative)
-   Avoiding -> Lose(Assertive) -> Lose(Cooperatie)
-   Collaborating -> Win(Assertive) -> Win(Cooperative)
-   Accomodating -> Lose(Assertive) -> Win(Cooperative)
-
-   Distributive Bargaining: A negotiation strategy in which one person gains and the other person loses
-   Integrative Bargaining: A negotiation strategy that achieves an outcome that is satisfying for both parties
-
-   Leader Effectiveness: The degree to which the leader's actions result in the achievement of the unit's goals, the continued commitment of the unit's employees, and the development of mutual trust, respect, and obligation in leader
-   Leader Emergence: The process of becoming a leader in the first place
-
-   Team State: Cohesion, Potency, Mental Models, Transactive Memory
-   Cohesion -> Emotional Bonds
-   Potency -> Confidence
-   Mental Model -> Shared Understanding
-   Transactive Memory -> Integrated Knowledge
-
-   Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
-   Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
-   Interpersonal Processes: Teamwork processes, such as motivating and confidence building that focus on the management of relationships among team members
-
-   Team Process: The different types of activities and interactions that occur within a team as the team works toward its goals
-   Team Process -> Works Toward Goals
-   Process Gain: Achievement of team outcomes greater than those one would expect on the basis of the capabilities of the individual members
-   Process Gain Means Greater Outcomes
-   Process Loss: Achievement of team outcomes less than those would expect on the basis of the capabilties of the individual members
-   Process Loss Means Less Outcome
-   Task Processes: The activities of team members that directly relate to the accomplishment of team tasks
-
-
-
-   Team Characteristics
-   Team: Two or more people who work interdependently over some time period to accomplish common goals related to some task-oriented purpose
- 
-   Work Team: Relatively permanent teams in which members work together to produce goods and/or provide services
-   Management Team: Relatively permanent teams that participate in managerial-level tasks that affect the entire organzation
-   Parallel Teams:  Teams composed of members from various jobs within the organzation that meet to provide recommendations about important issues
-   Project Teams: Teams formed to take on a one-time tasks, most of which tend to be complex and require input from members from different functional areas
-   Action Teams: Teams of limited duration that perform complex tasks in contexts that tend to be highly visible and challenging
-
-   Two Models of Team Development:
-   Forming -> Forming -> Norming -> Performing -> Adjourning
-   Forming and Pattern Creation -> Inertia -> Process Revision -> Inertia
-
-   Team Composition: Member Roles -> Member Ability -> Member Personality -> Team Diversity -> Team Size
-   Role: A pattern of behavior a person is generally expected to display in a given context
-   Team Task Roles: Behaviors that direcly faciliate the acomplishment of team tasks
-   Individualistic roles: Behaviors that benefit the individual at the expense of the team
-   Team-Building Roles: Behaviours that infleunce the quality of the team's social climate
-   Team diversity: The degree to which team members are different from one another
-   
-
-
-
- */
-
-
-
+/* 
+  Grapevine: The primary information communication network within an organization
+  
+*/
 /*
 
 Supervisor Feedback: A form of downward communication in which the supervisor provides information to a subordinate about their job performance
