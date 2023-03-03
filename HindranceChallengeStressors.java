@@ -1,6 +1,6 @@
 /* 
   Grapevine: The primary information communication network within an organization
-  
+  Rumours: Messages that travel along the grapevine that lack evidence as to their truth or validity
 */
 /*
 
