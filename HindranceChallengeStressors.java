@@ -1,6 +1,10 @@
 /* 
   Grapevine: The primary information communication network within an organization
   Rumours: Messages that travel along the grapevine that lack evidence as to their truth or validity
+  Downward Communication: Communication that flows from the top to the bottom of the vertical channel
+  Upward Communication: Communication that flows from the bottom to the top of the vertical channel
+  Horizontal Communication: Communication that flows among members of work groups, teams, or functional units who reside at the same level in the organization
+  
 */
 /*
 
