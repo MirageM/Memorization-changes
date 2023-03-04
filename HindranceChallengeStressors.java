@@ -1,4 +1,8 @@
 /* 
+  Positive Reinforcement: A reinforcement contingency in which a positive outcome follows a desired behavior
+  Extinction: The removal of a positive outcome following an unwanted behavior
+  Punishment: An unwanted outcome follows an unwanted behavior
+  Negative Reinforcement: A reinforcement contingency in which an unwanted outcome is removed following a desired behavior
   Learning: A relatively permanent chagne in an employee's knowlege or skill that results from experience
   Decision Making: The process of generating and choosing from a set of alternatives to solve a problem
 
