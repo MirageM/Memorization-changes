@@ -1,4 +1,8 @@
 /* 
+  Learning: A relatively permanent chagne in an employee's knowlege or skill that results from experience
+  Decision Making: The process of generating and choosing from a set of alternatives to solve a problem
+
+
   Grapevine: The primary information communication network within an organization
   Rumours: Messages that travel along the grapevine that lack evidence as to their truth or validity
   Downward Communication: Communication that flows from the top to the bottom of the vertical channel
