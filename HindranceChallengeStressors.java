@@ -1,4 +1,7 @@
 /* 
+  Supervisor Feedback: A form of downward communication in which the supervisor provides informaiton to a subordinate about their job performance
+  Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
+
 
   Face to Face Communication: The exchange of information and meaning when one or more individuals are physically present and where communication occurs without the aid of any mediating technology
   Verbal Communication: A form of communication in which messages are sent and received using written and spoken language
