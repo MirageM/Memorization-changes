@@ -1,6 +1,14 @@
 /* 
   Supervisor Feedback: A form of downward communication in which the supervisor provides informaiton to a subordinate about their job performance
   Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
+  Reliability: The extend to which the selection procedure is free from random error
+  Predictive Validity: The extend to which the selection procedure predicts future job performance
+
+  Teamwork processes: The interpersonal activities that promote the accomplishment of team tasks but do not involve task accomplishment itself
+  Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
+  Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
+  Interpersonal Processes: Teamwork processes, such as motivating and confidence building, that focus on the management of relationships among team members
+  
 
 
   Face to Face Communication: The exchange of information and meaning when one or more individuals are physically present and where communication occurs without the aid of any mediating technology
