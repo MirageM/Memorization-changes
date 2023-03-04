@@ -8,7 +8,12 @@
   Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
   Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
   Interpersonal Processes: Teamwork processes, such as motivating and confidence building, that focus on the management of relationships among team members
-  
+
+  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence of their experience working together
+  Cohesion: A team state that occurs when members of the team develop strong emotional bonds to other members of the team and to the team itself
+  Potency: A team state reflecting the degree of confidence among team members that the team can be effective across situations and tasks 
+  Mental Models: The degree to which team members have a shared understanding of important aspects of the team and its task
+  Transactive Memory: The degree to which team members specialized knowledge is integrated into an effective system of memory for the team
 
 
   Face to Face Communication: The exchange of information and meaning when one or more individuals are physically present and where communication occurs without the aid of any mediating technology
