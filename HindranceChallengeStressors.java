@@ -1,4 +1,13 @@
 /* 
+
+  Face to Face Communication: The exchange of information and meaning when one or more individuals are physically present and where communication occurs without the aid of any mediating technology
+  Verbal Communication: A form of communication in which messages are sent and received using written and spoken language
+  Nonverbal Communication: Any form of information exchange that doesn't involve spoken or written words
+  Computer Mediated Communication: The exchange of information and meaning using an electronic, digital medium
+  Email: A popular method of exchanging written digital messages from an author to one or more recipients
+  Videoconferencing: A communication medium that permits real-time, live interaction and discussion between remote individuals or groups via satellite or Internet
+  Wiki:A highly flexibile Web 2.0 application that allows people to quicky exchange verbal information and collaboratively solve problems, learn, manage projects, and create knowledge
+
   Positive Reinforcement: A reinforcement contingency in which a positive outcome follows a desired behavior
   Extinction: The removal of a positive outcome following an unwanted behavior
   Punishment: An unwanted outcome follows an unwanted behavior
