@@ -1,4 +1,12 @@
 /* 
+ Legitimate Power: A form of power based on authority or position
+ Reward Power: A form of organizational power based on the control of resources or benefits
+ Coercive Power: A form of organizational power based on the ability to hand out punishment
+ Expert Power: A form of organizational power baed on expertise or knowledge
+ Referent Power: A form of organizational power based on the attractiveness and charisma of the leader
+
+
+
   Supervisor Feedback: A form of downward communication in which the supervisor provides informaiton to a subordinate about their job performance
   Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
   Reliability: The extend to which the selection procedure is free from random error
