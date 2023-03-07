@@ -5,7 +5,15 @@ Espoused Values: The beliefs, philosophies, and norms that a company explicitly 
 Espoused Values -> Explicitly Stated
 Basic Underlying Assumptions: The ingrained beliefs and philosophies of employees
 Basic Underlying Assumptions -> Ingrained Beliefs
+Symbols: The images an organization uses, which generally convey messages
+Physical Structures: The organization's buildings and internal office designs
+Language: The jargon, slang, and slogans used within an organization
+Stories: Anecdotes, accounts, legends, and myths passed down from cohort to cohort within an organization
+Rituals: The daily or weekly planned routines that occur in an organizaiton
+Ceremonies: Formal events, generally performed in front of an audience of organizaitonal members
 
+A Typology of Organizational Culture:
+Networked -> Communal -> Fragmented -> Mercenary
 
  Organizational Power -> Legitimate Power -> Reward Power -> Coercive Power
  Legitimate Power: A form of power based on authority or position
