@@ -1,4 +1,9 @@
 /* 
+Observable Artifacts: Aspects of an organizaition's culture that employees and outsiders can easily see or talk about
+Observable Artifacts -> Easily See On The Outside
+
+
+
  Organizational Power -> Legitimate Power -> Reward Power -> Coercive Power
  Legitimate Power: A form of power based on authority or position
  Reward Power: A form of organizational power based on the control of resources or benefits
