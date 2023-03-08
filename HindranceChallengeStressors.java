@@ -1,5 +1,6 @@
 /* 
 Customer Service Culture: A specific culture type focused on service quality
+Culture Strength: The degree to which employees agree about how things should happen within the organizaiton and behave accordingly
 
 
 Observable Artifacts: Aspects of an organizaition's culture that employees and outsiders can easily see or talk about
