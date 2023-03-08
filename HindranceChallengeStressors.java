@@ -1,4 +1,7 @@
 /* 
+Customer Service Culture: A specific culture type focused on service quality
+
+
 Observable Artifacts: Aspects of an organizaition's culture that employees and outsiders can easily see or talk about
 Observable Artifacts -> Easily See On The Outside
 Espoused Values: The beliefs, philosophies, and norms that a company explicitly states
