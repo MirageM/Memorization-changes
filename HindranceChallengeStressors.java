@@ -1,7 +1,8 @@
 /* 
 Customer Service Culture: A specific culture type focused on service quality
 Culture Strength: The degree to which employees agree about how things should happen within the organizaiton and behave accordingly
-
+Subcultures: Cultures created within small subsets of the organization's employees
+Countercultures: Subcultures whose values do not match those of the organization
 
 Observable Artifacts: Aspects of an organizaition's culture that employees and outsiders can easily see or talk about
 Observable Artifacts -> Easily See On The Outside
