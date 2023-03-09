@@ -1,6 +1,10 @@
 /* 
 Anticipatory Stage: A stage of socialization that begins as soon as a potential employee develops an image of what it wouldd be like to work for a company
 Encounter Stage: A stage of socialization beggining the day an employee starts working, during which the employee compares the information as an outsider to the information learned as an insider
+Realiy Shock: A mismatch of information that occurs when an employee finds that aspects of working at a company are not what they expected them to be
+Reality Shock -> Mismatch of Information
+Understanding and Adaptation: The final stage of socialization, during which newcomers come to learn the content areas of socialization and internalize the norms and expected behaviors of the organization
+Understanding and Adaptation -> Content Areas of Socialization
 
 
 Customer Service Culture: A specific culture type focused on service quality
