@@ -1,3 +1,17 @@
+/*
+ Justice
+  Distributive Justice: The perceived fairness of decisions-making outcomes
+  Distributive Justice -> Perceived Fairness of Outcomes
+  Procedural Justice: The perceived fairness of decision-making processes
+  Procedural Justice -> Perceived Fairness of Processes
+  Interpersonal Justice: The perceived fairness of the interpersonal treatment received by employees from authorities
+  Interpersonal Justice -> Perceived Fairness of Treatment
+  Informational Justice: The perceived fairness of the communications provided to employees from authorities
+  Informational Justice -> Perceived Fairness of Communications
+
+ */
+
+
 /* 
 Anticipatory Stage: A stage of socialization that begins as soon as a potential employee develops an image of what it wouldd be like to work for a company
 Encounter Stage: A stage of socialization beggining the day an employee starts working, during which the employee compares the information as an outsider to the information learned as an insider
