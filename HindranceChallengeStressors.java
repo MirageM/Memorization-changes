@@ -1,4 +1,10 @@
 /*
+ Distributive Justice: The perceived fairness of decision-making outcomes
+ Procedural Justice: The perceived fairness of decision-making processes
+ Interpersonal Justice: The perceived fairness of interpersonal treatment received by employees from authorities
+ Informational Justice: The perceived fairness of communications provied to employees from authorities
+
+
  Justice
   Distributive Justice: The perceived fairness of decisions-making outcomes
   Distributive Justice -> Perceived Fairness of Outcomes
