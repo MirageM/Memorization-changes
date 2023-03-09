@@ -1,4 +1,8 @@
 /* 
+Anticipatory Stage: A stage of socialization that begins as soon as a potential employee develops an image of what it wouldd be like to work for a company
+Encounter Stage: A stage of socialization beggining the day an employee starts working, during which the employee compares the information as an outsider to the information learned as an insider
+
+
 Customer Service Culture: A specific culture type focused on service quality
 Culture Strength: The degree to which employees agree about how things should happen within the organizaiton and behave accordingly
 Subcultures: Cultures created within small subsets of the organization's employees
