@@ -1,4 +1,8 @@
 /*
+  Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
+  Cognition-based trust: Trust rooted in a rational asssessment of the authority's trustworthiness
+  Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
+
  Distributive Justice: The perceived fairness of decision-making outcomes
  Procedural Justice: The perceived fairness of decision-making processes
  Interpersonal Justice: The perceived fairness of interpersonal treatment received by employees from authorities
