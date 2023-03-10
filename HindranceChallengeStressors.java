@@ -1,4 +1,21 @@
 /*
+  The Four Component Model of Ethical Decision Making:
+  Moral Awareness -> Moral Judgement -> Moral Intent -> Ethical Behavior
+
+
+  Moral Awareness: Recognition by an authority that a moral issue exists in a situation
+  Moral Awareness -> Moral Issue Exists
+  Moral Judgement: The process people use to determine whether a particular course of action is ethical or unethical
+  Moral Judgement -> Ethical or Unethical
+  Moral Intent: An authority's degree of commitment to the moral course of action
+  Moral Intent -> Commitment to Moral Course of Action
+  Ethical Behavior: 
+
+
+
+
+
+
   Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
   Cognition-based trust: Trust rooted in a rational asssessment of the authority's trustworthiness
   Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
