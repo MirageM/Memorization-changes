@@ -1,4 +1,10 @@
 /*
+
+ Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
+
+
+
+
   The Four Component Model of Ethical Decision Making:
   Moral Awareness -> Moral Judgement -> Moral Intent -> Ethical Behavior
 
@@ -10,10 +16,6 @@
   Moral Intent: An authority's degree of commitment to the moral course of action
   Moral Intent -> Commitment to Moral Course of Action
   Ethical Behavior: 
-
-
-
-
 
 
   Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
