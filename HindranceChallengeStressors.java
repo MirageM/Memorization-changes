@@ -1,4 +1,8 @@
 /*
+ Distributive justice: The perceived fairness of decision-making outcomes
+ Precedural justice: The perceived fairness of decision-making processes
+ Interpersonal justice: The perceived fairness of interpersonal treatment received by employees from authorities
+ Informational justice: The perceived fairness of communications provided to employees from authoritiess
 
  Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
  Ability: Relatively stable capabilities of people for performing a particular range of related activities
