@@ -1,4 +1,5 @@
 /*
+ Ability, Benevolence, Integrity
  Moral Awareness -> Moral Judgment -> Moral Intent -> Ethical Behavior
  
  Distributive justice: The perceived fairness of decision-making outcomes
