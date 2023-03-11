@@ -1,4 +1,6 @@
 /*
+ Moral Awareness -> Moral Judgment -> Moral Intent -> Ethical Behavior
+ 
  Distributive justice: The perceived fairness of decision-making outcomes
  Precedural justice: The perceived fairness of decision-making processes
  Interpersonal justice: The perceived fairness of interpersonal treatment received by employees from authorities
