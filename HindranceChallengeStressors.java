@@ -2,6 +2,10 @@
 
  Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
  Ability: Relatively stable capabilities of people for performing a particular range of related activities
+ Benevolence: The belief that an authority wants to do good for a trustor, apart from any selfish or profit-centred motives
+ Benevolence -> Want to do good
+ Integrity: The perception that an authoriy adheres to a set of values and principles that the trustor finds acceptable
+ Integrity -> Adheres to Values and Principles
 
 
 
