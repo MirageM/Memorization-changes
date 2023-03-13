@@ -1,4 +1,8 @@
 /*
+ Fixed Interval Schedule: A schedule whereby reinforcement occurs at fixed time periods
+ Variable Interval Schedule: A schedule whereby reinforcement occurs at random periods of time
+
+
  Positive Reinforcement: A reinforcement contingency in which a postive outcome follows a desired behavior
  Negative Reinforcement: A reinforcement contingency in which an unwanted outcome is removed following a desired behavior
  Punishment: An unwanted outcome that follows an unwanted behaviour
