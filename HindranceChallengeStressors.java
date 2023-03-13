@@ -1,6 +1,11 @@
 /*
  Fixed Interval Schedule: A schedule whereby reinforcement occurs at fixed time periods
  Variable Interval Schedule: A schedule whereby reinforcement occurs at random periods of time
+ Fixed Ratio Schedule: A schedule whereby reinforcement occurs following a fixed number of desired behaviors
+ Variable Ratio Schedule: A schedule whereby behaviors are reinforced after a varying number of them have been exhibited
+
+ The Modelling Process:
+ Attentional Processes -> Retention Processes -> Production Processes -> Reinforcement
 
 
  Positive Reinforcement: A reinforcement contingency in which a postive outcome follows a desired behavior
