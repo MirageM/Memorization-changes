@@ -1,4 +1,10 @@
 /*
+ Positive Reinforcement: A reinforcement contingency in which a postive outcome follows a desired behavior
+ Negative Reinforcement: A reinforcement contingency in which an unwanted outcome is removed following a desired behavior
+ Punishment: An unwanted outcome that follows an unwanted behaviour
+ Extinction: The removal of a positive outcome following an unwanted behaviour
+
+
  Ability, Benevolence, Integrity
  Moral Awareness -> Moral Judgment -> Moral Intent -> Ethical Behavior
  
