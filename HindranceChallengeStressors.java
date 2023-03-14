@@ -1,4 +1,8 @@
 /*
+ Positive Reinforcement, Negative Reinforcement, Punishment, Extinction
+
+
+
  Fixed Interval Schedule: A schedule whereby reinforcement occurs at fixed time periods
  Variable Interval Schedule: A schedule whereby reinforcement occurs at random periods of time
  Fixed Ratio Schedule: A schedule whereby reinforcement occurs following a fixed number of desired behaviors
