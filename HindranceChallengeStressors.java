@@ -5,6 +5,13 @@
  
  Attentional Processes -> Rention Processes -> Production Processes -> Reinforcement
 
+ Selective perception: The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
+ Projection bias: The faulty perception by decision makers that others think, feel, and act as they do
+ Social identity theory: A theory that people identify themselves according to the various groups to which they belong and judge others according to the groups they associate with
+ Stereotype: Assumptions made about others based on their social group membership
+ Heuristics: Simple and efficient rules of thumb that allow one to make decisions more easily
+ Availability bias: The tendency for people to base their judgements on information that is easier to recall
+
  Fixed Interval Schedule: A schedule whereby reinforcement occurs at fixed time periods
  Variable Interval Schedule: A schedule whereby reinforcement occurs at random periods of time
  Fixed Ratio Schedule: A schedule whereby reinforcement occurs following a fixed number of desired behaviors
