@@ -2,7 +2,8 @@
  Positive Reinforcement, Negative Reinforcement, Punishment, Extinction
  Social learning theory: Theory that argues that people in organizations learn by observing others
  Behavioural modelling: Employees observing the actions of others, learning from what they observe, and then repeating the observed behavior
-
+ 
+ Attentional Processes -> Rention Processes -> Production Processes -> Reinforcement
 
  Fixed Interval Schedule: A schedule whereby reinforcement occurs at fixed time periods
  Variable Interval Schedule: A schedule whereby reinforcement occurs at random periods of time
