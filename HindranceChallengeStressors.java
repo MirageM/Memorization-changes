@@ -1,4 +1,7 @@
 /*
+ Selective perception: The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
+ Projective Bias: The faulty by decision makers that others think, feel, and act as they do
+
  Positive Reinforcement, Negative Reinforcement, Punishment, Extinction
  Social learning theory: Theory that argues that people in organizations learn by observing others
  Behavioural modelling: Employees observing the actions of others, learning from what they observe, and then repeating the observed behavior
