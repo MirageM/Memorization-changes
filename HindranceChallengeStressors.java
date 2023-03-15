@@ -5,6 +5,12 @@
  Heuristics: Simple and efficient rules of thumb that allow one to make decisions more easily
  Availability bias: The tendency for people to base their judgments on information that is easier to recall
 
+ Internal Attribution
+ External Attribution
+ Low <-> Consensus <-> High
+ Low <-> Distinctiveness <-> High
+ High <-> Consistency <-> Low
+
 
  Positive Reinforcement, Negative Reinforcement, Punishment, Extinction
  Social learning theory: Theory that argues that people in organizations learn by observing others
