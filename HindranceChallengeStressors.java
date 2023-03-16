@@ -7,8 +7,17 @@
  Reward Power: A form of organizational power based on the control of resources or benefits
  Reward Power -> Resources
  Expert Power: A form of organizational power based on expertise or knowledge
+ Expert Power -> Expertise
  Referent Power: A form of organizational power based on the attractiveness and charisma of the leader
  Referent Power -> Attractiveness of a Leader
+
+ Legitimate Power: Position of authority
+ Reward Power: Control of resources
+ Coercive Power: Ability to punish
+ Expert Power: Expertise, skill, or knowledge
+ Reference Power: Charisma of the leader
+
+
 
 
 
