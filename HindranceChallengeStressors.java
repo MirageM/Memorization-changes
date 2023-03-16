@@ -1,4 +1,16 @@
 /*
+ Chapter 11: Team Characteristics and Processes
+
+ Team Processes: 
+ Process gain is getting more from the team than you would expect according to the capabilities of its individual members
+ Process loss is getting less from teh team than you would expect based on the capabilities of its indivual members
+  -> Coordination loss
+  -> Motivation loss
+ 
+ */
+
+
+/*
  Power, Influence, and Negotiation
  Legitimate Power: A form of organizational power based on authority or position
  Legitimate Power -> Authority
@@ -16,6 +28,9 @@
  Coercive Power: Ability to punish
  Expert Power: Expertise, skill, or knowledge
  Reference Power: Charisma of the leader
+
+ Resolution Style
+
 
 
 
