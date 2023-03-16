@@ -1,4 +1,13 @@
 /*
+ Power, Influence, and Negotiation
+ Legitimate Power: A form of organizational power based on authority or position
+ Coercive Power: A form of organizaitonal power based on the ability to hand out punishment
+ Reward Power: A form of organizational power based on the control of resources or benefits
+ Expert Power: A form of organizational power based on expertise or knowledge
+ Referent Power: A form of organizational power based on the attractiveness and charisma of the leader
+
+
+
  Selective perception: The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
  Projective Bias: The faulty by decision makers that others think, feel, and act as they do
  
