@@ -7,6 +7,8 @@
   -> Coordination loss
   -> Motivation loss
  
+  Relationship Conflict
+  Task Conflict
  */
 
 
