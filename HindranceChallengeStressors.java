@@ -6,6 +6,9 @@
  Process loss is getting less from teh team than you would expect based on the capabilities of its indivual members
   -> Coordination loss
   -> Motivation loss
+  Taskwork processes: The activities of team members that relate directly to the accomplishment of team tasks
+  Process gain: Achievement of team outcomes greater than those one would expect on the basis of capabilities of the individual members
+  Process loss: Achievement of team outcomes less than those one would expect on the basis of capabilities of the indvidual members
  
   Relationship Conflict: refers to disagreements among team members in terms of interpersonal relationships or incompatibilities with respect to person values or preferences.
   Task Conflict: refers to disagreements among members about the team's task
