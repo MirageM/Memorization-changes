@@ -7,14 +7,16 @@
   -> Coordination loss
   -> Motivation loss
  
-  Relationship Conflict
-  Task Conflict
+  Relationship Conflict: refers to disagreements among team members in terms of interpersonal relationships or incompatibilities with respect to person values or preferences.
+  Task Conflict: refers to disagreements among members about the team's task
 
   Team States:
   Cohesion: A team state that occurs when members of the team develop strong emotional bonds to other members of the team and to the team itself
   Potency: A team state reflecting the degree of confidence among team members that the team can be effective across situations and tasks
   Mental Model: A degree to which team members have a shared understanding of important aspects of the team and its task
+  Mental Model -> Shared understanding
   Transactive Memory: The degree to which team member's specialized knowledge is integrated into an effective system of memory for the team
+  Transactive Memory -> Integrated knowledge for the team
  */
 
 
