@@ -9,6 +9,12 @@
  
   Relationship Conflict
   Task Conflict
+
+  Team States:
+  Cohesion: A team state that occurs when members of the team develop strong emotional bonds to other members of the team and to the team itself
+  Potency: A team state reflecting the degree of confidence among team members that the team can be effective across situations and tasks
+  Mental Model: 
+  Transactive Memory:
  */
 
 
