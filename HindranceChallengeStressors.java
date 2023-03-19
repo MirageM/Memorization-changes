@@ -1,4 +1,12 @@
 /*
+ 13: Leadership Styles and Behaviors
+ Leadership: The use of power and influence to direct the activities of follwers toward goal achievement
+ Leader-member exchange theory: A theory describing how leader-member relationships develop over time on a dyadic basis
+ Role taking: The phase in a leader-follower relationship when a leader provides an employee with job expectations and the follower tries to meet those expectations
+
+
+
+
  Transportable teamwork competencies: Team training that involves helping people develop general temwork competencies that they can transport from one team context to another
  Cross-training: Training team members in the duties and responsibilties of their teammates
  Team process training: The use of team experiences that facilitates the team's ability to function and perform more effectively as an intact unit
@@ -7,6 +15,7 @@
  Mediation: A process by which a third party facilitates a dispute resolution process but with no formal authority to dictate a solution
  Arbitration: A process by which a third party determines a binding settlement to a dispute between two parties
  
+
  */
 
 
