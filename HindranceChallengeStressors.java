@@ -1,4 +1,13 @@
 /*
+ Transportable teamwork competencies: Team training that involves helping people develop general temwork competencies that they can transport from one team context to another
+ Cross-training: Training team members in the duties and responsibilties of their teammates
+ Team process training: The use of team experiences that facilitates the team's ability to function and perform more effectively as an intact unit
+ Team building: Fun activities that facilitate team problem solving, trust, relationship building, and the clarification of role responsibilties
+ 
+ */
+
+
+/*
  Chapter 11: Team Characteristics and Processes
 
  Team Processes: 
