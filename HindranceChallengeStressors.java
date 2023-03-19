@@ -3,6 +3,9 @@
  Cross-training: Training team members in the duties and responsibilties of their teammates
  Team process training: The use of team experiences that facilitates the team's ability to function and perform more effectively as an intact unit
  Team building: Fun activities that facilitate team problem solving, trust, relationship building, and the clarification of role responsibilties
+ Alternative dispute resolution: A proceess by which two parties resolve conflicts through the use of a specially trained, neutral third party
+ Mediation: A process by which a third party facilitates a dispute resolution process but with no formal authority to dictate a solution
+ Arbitration: A process by which a third party determines a binding settlement to a dispute between two parties
  
  */
 
