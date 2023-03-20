@@ -1,11 +1,21 @@
 /*
+  Chapter 10: Communication
+  Communication: The process by which information and meaning is transferred from a sender to a receiver
+  Face-to-face communicaiton: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
+  -> Exchange of information by being physically present
+  Verbal Communication: A form of communication in which messages are sent and received using written and spoken language
+  -> Exchange of information by speaking
+  Non-verbal: Any form of information exchange that doesn't involve spoken or written words
+  Non-verbal: Exchange of information without spoken or written words
+
+ */
+
+
+/*
  13: Leadership Styles and Behaviors
  Leadership: The use of power and influence to direct the activities of follwers toward goal achievement
  Leader-member exchange theory: A theory describing how leader-member relationships develop over time on a dyadic basis
  Role taking: The phase in a leader-follower relationship when a leader provides an employee with job expectations and the follower tries to meet those expectations
-
-
-
 
  Transportable teamwork competencies: Team training that involves helping people develop general temwork competencies that they can transport from one team context to another
  Cross-training: Training team members in the duties and responsibilties of their teammates
