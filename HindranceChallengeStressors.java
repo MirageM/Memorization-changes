@@ -12,8 +12,12 @@
   Videoconferencing: A communication medium that permits real-time, live interaction and discussion between remote individuals or groups via satellite or internet
   Wiki: A highly flexible Web 2.0 application that allows people to quickly exchange verbal information and collaboratively solve problems, learn, manage projects, and create knowledge
   -> A knowledgeable platform to problem solve
-
-
+  Communicator competence: The ability of communicators to encode and interpret messages
+  -> Ability to encode messages
+  Information richness: The amount and depth of the information transmitted in a message
+  -> Depth of information
+  Gender differences: Different ways men and women tend to process and interpret information and communicate with others
+  -> Different communications style of men and women
  */
 
 
