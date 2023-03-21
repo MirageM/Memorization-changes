@@ -1,4 +1,15 @@
 /*
+ Chapter 11: Team Characteristics and Processes
+ Team: Two or more people work interdependently over some time period to accomplish common goals related to some task-oriented purpose
+ -> Working together to accomplish a common goal
+ Action teams: Teams of limited duration that perform complex tasks in contexts that tend to be highly visible and challenging
+ -> Limited and challenging teamwork
+ Multiple team membership: A work arrangement in which employees are assigned to multiple teams simultaneously
+ -> Assigned to multiple teams simulataneously
+ */
+
+
+/*
   Chapter 10: Communication
   Communication: The process by which information and meaning is transferred from a sender to a receiver
   Face-to-face communicaiton: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
