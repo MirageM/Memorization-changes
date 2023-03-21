@@ -13,6 +13,11 @@
   Non-Linear Fashion
   Forming and Pattern Creation -> Intertia -> Process Revision -> Intertia
 
+  Punctuated Equilibrium: A sequence of team development during which not much gets done until the halfway point of a project, after which teams make necessary changes to complete the project on time
+  -> Gets done after the halfway point
+  Task Interdependence: The degree to which team members interact with and rely on other team members for information, materials, and resources needed to accomplish work for the team
+  -> Rely on other team
+
  */
 
 
