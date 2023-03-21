@@ -6,6 +6,13 @@
  -> Limited and challenging teamwork
  Multiple team membership: A work arrangement in which employees are assigned to multiple teams simultaneously
  -> Assigned to multiple teams simulataneously
+ 
+ Two Models of Team Development:
+  Linear Fashion:
+  Forming -> Storming -> Norming -> Performing -> Adjourning
+  Non-Linear Fashion
+  Forming and Pattern Creation -> Intertia -> Process Revision -> Intertia
+
  */
 
 
