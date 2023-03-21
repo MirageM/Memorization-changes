@@ -33,6 +33,10 @@
   -> Communication Network adjacently
   Chain Network Structure: A communication network in which information is passed from member to member, from one end of the chain to the other
   -> Communication Network from one end of the chain to the other
+  Y Network Structure: A communication network in which one member controls the flow of information between one set of members and another
+  -> Communication Network one members controls the information between one set of members
+  Wheel Network Structure: A communication network in which all communication between members is controlled by a single member
+  -> Communication Network controlled by one member
  */
 
 
