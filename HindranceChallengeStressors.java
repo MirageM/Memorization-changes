@@ -25,7 +25,14 @@
   -> Communication from bottom to top
   Horizontal communication: Communication that flows among members of work groups, teams, or functional units who reside at the same level in the organization
   -> Communication between same level
-  
+
+  Communicaiton Network Structures
+  All-Channel Network Structure: A communication network in which any member can send and receive messages from any other
+  -> Communcation Network with anyone
+  Circle Network Structure: A communication network in which members send and receive messages from individuals who are immediately adjacent to them
+  -> Communication Network adjacently
+  Chain Network Structure: A communication network in which information is passed from member to member, from one end of the chain to the other
+  -> Communication Network from one end of the chain to the other
  */
 
 
