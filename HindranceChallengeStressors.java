@@ -18,6 +18,14 @@
   -> Depth of information
   Gender differences: Different ways men and women tend to process and interpret information and communicate with others
   -> Different communications style of men and women
+
+  Downward communication: Communication that flows from the top to the bottom of the vertical channel
+  -> Communication from top to bottom
+  Upward Communication: Communication that flows from the bottom to the top of the vertical channel
+  -> Communication from bottom to top
+  Horizontal communication: Communication that flows among members of work groups, teams, or functional units who reside at the same level in the organization
+  -> Communication between same level
+  
  */
 
 
