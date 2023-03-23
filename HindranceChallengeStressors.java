@@ -30,11 +30,14 @@
   -> Sharing the feedback and rewards
  
   Team Composition: The mix of various characteristics that describe the indivudals who work in the team
-  Member Roles
-  Member Abiliy
-  Member Personality
-  Team Diversity
-  Team Size
+  Member Roles -> Member Abiliy -> Member Personality -> Team Diversity -> Team Size
+  
+  Team Diversity: The degree to which team members are different from one another
+  -> Different team members
+  Value in diversity problem-solving approach: A theory that support team diversity because it provides a larger pool of knowledge and perspectives
+  -> Support team diversity through knowledge and perspectives
+  
+
 
  */
 
