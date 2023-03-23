@@ -28,7 +28,13 @@
   -> Aligning individual goals as a whole
   Outcome Interdependence: The degree to which team members share equally in the feedback and rewards that result from the team achieving its goals
   -> Sharing the feedback and rewards
-
+ 
+  Team Composition: The mix of various characteristics that describe the indivudals who work in the team
+  Member Roles
+  Member Abiliy
+  Member Personality
+  Team Diversity
+  Team Size
 
  */
 
