@@ -18,6 +18,14 @@
   Task Interdependence: The degree to which team members interact with and rely on other team members for information, materials, and resources needed to accomplish work for the team
   -> Rely on other team
 
+  Task Interdependence and Coordination Requirements:
+  Comprehensive Interdependence
+  Reciprocal Interdependence
+  Sequential Interdependence
+  Pooled Interdependence
+
+
+
  */
 
 
