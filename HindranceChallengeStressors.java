@@ -24,6 +24,10 @@
   Sequential Interdependence
   Pooled Interdependence
 
+  Goal Interdependence: The degree to which team members have a shared vision of the team's goal and align their individual goals with that vision
+  -> Aligning individual goals as a whole
+  Outcome Interdependence: The degree to which team members share equally in the feedback and rewards that result from the team achieving its goals
+  -> Sharing the feedback and rewards
 
 
  */
