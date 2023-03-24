@@ -23,6 +23,15 @@
  Zero acquaintance situations: Situations in which two people have just met
  Status striving: A strong desire to obtain power and influence within a social structure as a means of expressing one's personality
  Locus of control: One's tendency to view the cause of events and personal outcomes as internally or externally controlled
+
+ Big Five: The five major dimensions of personality: conscientiousness, agreeableness, neuroticism, openness to experience, extraversion
+ Conscientiousness: Dimension of personality-reflecting traits like being dependable, organized, reliable, ambitious, hard-working, and perserving
+ Agreeableness: Dimension of personality-reflecting traits like being kind, cooperative, sympathetic, helpful, courteous
+ Neuroticism: Dimension of personality-reflecting traits like being nervous,moody, emootional, insecure, jealous, and unstable
+ Openness to experience: Dimension of personality-reflecing traits like being curious, imaginative, creative, complex, refined, and sophisticated
+ Extraversion: Dimension of personality-reflecting traits like being talkative, sociable, passionate, assertive, bold, and dominant
+
+
  */
 
 
