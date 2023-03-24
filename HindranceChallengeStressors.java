@@ -9,6 +9,10 @@
  -> Shared understanding
  Transactive memory: The degree to which team member's specialized knowledge is integrated into an effective system of memory for the team
  -> Memory of the team
+
+ Parallel Teams: Teams composed of members from various jobs within the organization that meet to provide recommendations about important issues
+ Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
+ Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
  
  */
 
