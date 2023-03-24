@@ -16,7 +16,11 @@
  
  Extraversion -> Postive Affectivity
  Neuroticism -> Negative Affectivity
- Postive Affectivity: 
+ Positive Affectivity: A dispositional tendency to experience pleasant, engaging moods such as enthusiasm, excitement, and elation
+ -> Experience pleasant moods
+ Negative Affectivity: A dispositional tendency to experience unpleasant moods such as hostility, nervousness, and annoyance
+ -> Experience unpleasant moods
+
 
  Accomplishment Striving: A strong desire to assomplish task-related goals as a means of expressing one's personality
  Communion Striving: A strong desire to obtain acceptance in personal relationships as a means of expressing one's personality
