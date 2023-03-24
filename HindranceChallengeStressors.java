@@ -1,4 +1,19 @@
 /*
+ Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
+ -> Feelings and Thoughts of team members
+ Cohesion: A team state that occurs when members of the team develop strong emotional bonds to other members of the team and to the team itself
+ -> Emotion bonds to other members of the team
+ Potency: A team state reflecting the degree of confidence among team members that the team can be effective across situations and tasks
+ -> Confidence among team members
+ Mental Model: The degree to which team members have a shared understanding of important aspects of the team and its task
+ -> Shared understanding
+ Transactive memory: The degree to which team member's specialized knowledge is integrated into an effective system of memory for the team
+ -> Memory of the team
+ 
+ */
+
+
+/*
  Chapter 11: Team Characteristics and Processes
  Team: Two or more people work interdependently over some time period to accomplish common goals related to some task-oriented purpose
  -> Working together to accomplish a common goal
@@ -36,7 +51,7 @@
   -> Different team members
   Value in diversity problem-solving approach: A theory that support team diversity because it provides a larger pool of knowledge and perspectives
   -> Support team diversity through knowledge and perspectives
-  
+ 
 
 
  */
