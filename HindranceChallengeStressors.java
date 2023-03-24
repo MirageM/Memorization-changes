@@ -14,6 +14,9 @@
  Action Processes: Teamwork processes, such as helping and coordination, that aid in the accomplishment of teamwork as the work is actually taking place
  Transition Processes: Teamwork processes, such as mission analysis and planning, that focus on preparation for future work in the team
  
+ Extraversion -> Postive Affectivity
+ Neuroticism -> Negative Affectivity
+ 
  */
 
 
