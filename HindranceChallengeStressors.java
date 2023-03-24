@@ -16,7 +16,13 @@
  
  Extraversion -> Postive Affectivity
  Neuroticism -> Negative Affectivity
- 
+ Postive Affectivity: 
+
+ Accomplishment Striving: A strong desire to assomplish task-related goals as a means of expressing one's personality
+ Communion Striving: A strong desire to obtain acceptance in personal relationships as a means of expressing one's personality
+ Zero acquaintance situations: Situations in which two people have just met
+ Status striving: A strong desire to obtain power and influence within a social structure as a means of expressing one's personality
+ Locus of control: One's tendency to view the cause of events and personal outcomes as internally or externally controlled
  */
 
 
