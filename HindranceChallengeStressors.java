@@ -18,6 +18,22 @@ Courtesy: Sharing important information with co-workers
 Sportmanship: Maintaining a postive attitude with co-workers through good and bad times
 Organizational citizenship behavior: Going beyond normal expectations to improve operations of the organization, defend it, and be loyal to it
 Civic virtue: Participating in company operations at a deeper-than-normal level through voluntary meetings, and reading and keep up with organizational annoucements and news that affects the company
+Boosterism: Postively representing the organization when in public
+Counterproductive Behavior: Employee behaviors that intentionally hinder organizational goal accomplishment
+
+Types of counterproductive behaviors:
+Production Deviance
+  - Wasting resources
+  - Substance abuse
+Property Deviance
+  - Sabotage
+  - Theft
+Political Deviance
+  - Gossiping
+  - Incivility
+Personal Aggression
+  - Harassment
+  - Abuse
 
 
  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
