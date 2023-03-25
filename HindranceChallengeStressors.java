@@ -1,4 +1,22 @@
 /*
+ HOFSTEDE'S DIMENSIONS OF CULTURAL VALUES
+ Individualism-Collectivism
+ Individualistic: The culture is a loosely knit social framework in which people take care of themselves and their immediate family
+ Collectivistic: The culture is a tight social framework in which people take care of the members of a broader in-group and act loyally to it
+ Low Power Distance: The culture prefers that power be distributed uniformly where possible, in a more egalitarian fashion
+ High Power Distance: The culture accepts the fact that power is usually distributed unequally within organizations
+ Low Uncertainty Avoidance: The culture tolerates uncertain and ambiguous situations and values unusual ideas and behaviors
+ High Uncertainty Avoidance: The culture feels threatened by uncertain and ambiguous sitations and relies on formal rules to create stability
+ Masculine: The culture values stereotypically male traits such as assertiveness and the acquisition of money and things
+ Feminine: The culture values stereotypically female traits such as caring for others and caring about quality of life
+ Short Term Oriented: The culture stresses values that are more past and present oriented, such as respect for tradition and fulfilling obligations
+ Long Term Oriented: The culture stresses values that are more future-oriented, such as persistence, prudence, and thrift
+
+
+
+
+
+
  Task performance: Employee behaviors that are direcly involved in the transformation of organizational resources into the good or services that the organization produces
  -> Employee behaviors
  Routine task performance: Well-known or habitual responses by employees to predictable task demands
