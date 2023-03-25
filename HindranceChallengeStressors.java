@@ -1,4 +1,12 @@
 /*
+ Task performance: Employee behaviors that are direcly involved in the transformation of organizational resources into the good or services that the organization produces
+ -> Employee behaviors
+ Routine task performance: Well-known or habitual responses by employees to predictable task demands
+ -> Well-known responses by employee
+ Adaptive task performance: Thoughtful responses by an employee to unique or unusual task demands
+ -> Thoughtful responses by an empployee
+
+
  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
  -> Feelings and Thoughts of team members
  Cohesion: A team state that occurs when members of the team develop strong emotional bonds to other members of the team and to the team itself
