@@ -5,6 +5,10 @@
  -> Well-known responses by employee
  Adaptive task performance: Thoughtful responses by an employee to unique or unusual task demands
  -> Thoughtful responses by an empployee
+ Creative task performance: Ideals or physical outcomes that are both novel and useful
+ ->Ideal/Physical Outcomes
+ Job analysis: A process by which an organization determines requirements of specific job
+ -> Organization determines requirements
 
 
  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
