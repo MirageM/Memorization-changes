@@ -17,6 +17,7 @@ Helping: Assisting co-workers who have heavy workloads, aiding then with persona
 Courtesy: Sharing important information with co-workers
 Sportmanship: Maintaining a postive attitude with co-workers through good and bad times
 Organizational citizenship behavior: Going beyond normal expectations to improve operations of the organization, defend it, and be loyal to it
+Civic virtue: Participating in company operations at a deeper-than-normal level through voluntary meetings, and reading and keep up with organizational annoucements and news that affects the company
 
 
  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
