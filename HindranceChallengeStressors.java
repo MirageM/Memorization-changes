@@ -9,6 +9,14 @@
  ->Ideal/Physical Outcomes
  Job analysis: A process by which an organization determines requirements of specific job
  -> Organization determines requirements
+ Citizenship behavior: Voluntary employee behaviors that contribute to organizational goals by improving the context in which work takes place
+ -> Voluntary employee behavior
+Interpersonal citizenship behavior: Going beyond normal job expectations to assist, support, and develop co-workers and colleagues
+-> Going beyond to develop co-workers and colleagues
+Helping: Assisting co-workers who have heavy workloads, aiding then with personal matters, and showing new employees the ropes
+Courtesy: Sharing important information with co-workers
+Sportmanship: Maintaining a postive attitude with co-workers through good and bad times
+Organizational citizenship behavior: Going beyond normal expectations to improve operations of the organization, defend it, and be loyal to it
 
 
  Team States: Specific types of feelings and thoughts that coalesce in the minds of team members as a consequence
