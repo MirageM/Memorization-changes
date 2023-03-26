@@ -1,9 +1,17 @@
 /*
+Trust Propensity:
+Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
+Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
+Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
+
+
+ 
+ */
+
+
+
+/*
  Value-percept theory: A theory that argues that job satisfaction depends on whether the employee perceives that their job supplies those things that they value
-
-
-
-
 
  The Big 5: CANOE
  Conscientiousness
