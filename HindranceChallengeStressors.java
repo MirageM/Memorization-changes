@@ -7,8 +7,14 @@
  Extraversion
 
  Typical performance: Performance in the routine conditions that surround daily job tasks
+ Maximum Performance: Peformance in brief, special circumstances that demand a person's best effort
+ Situational strength: The deegree to which situations have clear behavioral expectations, incentives, or instructions that make differences between individuals less important
+ Trait activation: The degree to which situations provide cues that trigger the expression of a given personality trait
 
-
+ Conscientiousness is moderate to Job Performance
+ Conscientiousness is moderate to Organizational commitment
+ Cognitive Ability is strong to Job Performance
+ Cognitive Ability is weak to Organizational Commitment
 
  HOFSTEDE'S DIMENSIONS OF CULTURAL VALUES
  Individualism-Collectivism
