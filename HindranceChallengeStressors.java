@@ -16,6 +16,10 @@
  Cognitive Ability is strong to Job Performance
  Cognitive Ability is weak to Organizational Commitment
 
+ Job satisfaction: A pleasurable emotional state resulting from the appraisal of one's job or job experiences; represnts how a person feels and thinks about their job
+ Values: Things that people consciously or subconsciously want to seek or attain
+ Commonly assessed work values: Pay, Promotions, Supervision, Co-workers, The work itself, Altruism, Status, Environment
+
  HOFSTEDE'S DIMENSIONS OF CULTURAL VALUES
  Individualism-Collectivism
  Individualistic: The culture is a loosely knit social framework in which people take care of themselves and their immediate family
