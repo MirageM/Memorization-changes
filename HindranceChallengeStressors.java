@@ -1,4 +1,15 @@
 /*
+ The Big 5: CANOE
+ Conscientiousness
+ Agreeableness
+ Neuroticism
+ Openness to Experience
+ Extraversion
+
+ Typical performance: Performance in the routine conditions that surround daily job tasks
+
+
+
  HOFSTEDE'S DIMENSIONS OF CULTURAL VALUES
  Individualism-Collectivism
  Individualistic: The culture is a loosely knit social framework in which people take care of themselves and their immediate family
