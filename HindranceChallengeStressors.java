@@ -1,4 +1,10 @@
 /*
+ Value-percept theory: A theory that argues that job satisfaction depends on whether the employee perceives that their job supplies those things that they value
+
+
+
+
+
  The Big 5: CANOE
  Conscientiousness
  Agreeableness
