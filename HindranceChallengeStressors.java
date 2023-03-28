@@ -8,6 +8,8 @@ Disposition-based trust:
 Cognition-baed trust:
 Affect-based trust:
 
+Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
+
  
  */
 
