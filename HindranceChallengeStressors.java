@@ -4,6 +4,9 @@ Disposition-based trust: Trust rooted in one's own personality, as opposed to a 
 Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
 Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
 
+Disposition-based trust:
+Cognition-baed trust:
+Affect-based trust:
 
  
  */
