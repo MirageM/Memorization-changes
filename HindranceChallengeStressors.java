@@ -9,6 +9,7 @@ Cognition-baed trust:
 Affect-based trust:
 
 Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
+Ability: Relatively stable capabilities of people for performing a particular range of related activities
 
  
  */
