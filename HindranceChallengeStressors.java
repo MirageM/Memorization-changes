@@ -1,8 +1,11 @@
 /*
 Trust Propensity:
 Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
+-> Trusted rooted in personality
 Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
+-> Trust rooted in rational assessment
 Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
+-> Trust dependent on feelings
 
 Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
 Cognition-baed trust: Trust rooted in a rational assessment of the authority's trustworthiness
