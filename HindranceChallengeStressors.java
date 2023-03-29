@@ -8,7 +8,7 @@ Affect-based trust: Trust dependent on feelings toward the authority that go bey
 -> Trust dependent on feelings
 
 Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
-Cognition-baed trust: Trust rooted in a rational assessment of the authority's trustworthiness
+Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
 Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
 
 Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
