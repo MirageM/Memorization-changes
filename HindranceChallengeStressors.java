@@ -25,6 +25,11 @@ Procedural Justice
 Interpersonal Justice
 Informational Justice
 
+Ethics
+Moral Awareness
+Moral Judgement
+Moral Intent
+Ethical Behavior
  
  */
 
