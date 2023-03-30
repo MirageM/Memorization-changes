@@ -30,6 +30,11 @@ Moral Awareness
 Moral Judgement
 Moral Intent
 Ethical Behavior
+
+Trustworthiness
+Ability
+Benevolence
+Integrity
  
  */
 
