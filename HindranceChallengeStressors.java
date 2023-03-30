@@ -19,6 +19,11 @@ Benevolence: The belief that an authority wants to do good for a trustor, apart 
 Integrity: The perception that an authority adheres to a set of values and principles that the trustor finds acceptable
 -> Authority adheres to a set of values and principles
 
+Justice
+Distributive Justice
+Procedural Justice
+Interpersonal Justice
+Informational Justice
 
  
  */
