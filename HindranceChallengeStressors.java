@@ -1,4 +1,15 @@
 /*
+Distributive Justice Rules: Equity vs equality vs need : Are rewards allocated according to the proper norm?
+Procedural Justice Rules: Voice, Correctability, Consistency, Bias Suppression, Representativeness, Accuracy
+Interpersonal Justice Rules: Respect, Propriety
+Informational Justice Rules: Justification, Truthfulness
+
+ 
+ */
+
+
+
+/*
 Trust Propensity:
 Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
 -> Trusted rooted in personality
