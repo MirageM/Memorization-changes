@@ -6,7 +6,7 @@ Reward Power: A form of organizational power based on the control of resources o
 Coercive Power: A form of organizational power based on the ability to hand out punishment
 Personal Power ->
 Expert Power: A form of organizational power based on expertise or knowledge
-Referent Power:
+Referent Power: A form of organizational power based on the attractiveness and charisma of the leader
 
 
 
