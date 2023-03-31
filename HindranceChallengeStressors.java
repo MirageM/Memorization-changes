@@ -8,6 +8,8 @@ Distributive Justice: The perceived fairness of decision-making outcomes
 Procedural Justice: The perceived fairness of decision-making processes
 Interpersonal Justice: The perceived fairness of the interpersonal treatment received by employees from authorities
 Informational Justice: The perceived fairness of the communications provided to employees from authorities
+
+Moral Awareness -> Moral Judgement -> Moral Intent -> Ethical Behavior
  */
 
 
