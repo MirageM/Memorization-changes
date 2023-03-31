@@ -1,7 +1,7 @@
 /*
 Ability to influence others
-Organizational Power:
-Legitimate Power
+Organizational Power ->
+Legitimate Power: A form of organizational power based on authority or position
 Reward Power
 Coercive Power
 Personal Power
