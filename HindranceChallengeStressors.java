@@ -1,4 +1,16 @@
 /*
+Ability to influence others
+Organizational Power:
+Legitimate Power
+Reward Power
+Coercive Power
+Personal Power
+Expert Power
+Referent Power
+
+
+
+
 Distributive Justice Rules: Equity vs equality vs need : Are rewards allocated according to the proper norm?
 Procedural Justice Rules: Voice, Correctability, Consistency, Bias Suppression, Representativeness, Accuracy
 Interpersonal Justice Rules: Respect, Propriety
