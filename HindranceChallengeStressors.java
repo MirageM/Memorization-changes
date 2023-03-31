@@ -4,9 +4,9 @@ Organizational Power ->
 Legitimate Power: A form of organizational power based on authority or position
 Reward Power: A form of organizational power based on the control of resources or benefits
 Coercive Power: A form of organizational power based on the ability to hand out punishment
-Personal Power
-Expert Power
-Referent Power
+Personal Power ->
+Expert Power: A form of organizational power based on expertise or knowledge
+Referent Power:
 
 
 
