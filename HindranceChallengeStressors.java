@@ -4,7 +4,10 @@ Procedural Justice Rules: Voice, Correctability, Consistency, Bias Suppression, 
 Interpersonal Justice Rules: Respect, Propriety
 Informational Justice Rules: Justification, Truthfulness
 
- 
+Distributive Justice: The perceived fairness of decision-making outcomes
+Procedural Justice: The perceived fairness of decision-making processes
+Interpersonal Justice: The perceived fairness of the interpersonal treatment received by employees from authorities
+Informational Justice: The perceived fairness of the communications provided to employees from authorities
  */
 
 
