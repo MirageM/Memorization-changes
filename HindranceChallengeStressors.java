@@ -7,6 +7,11 @@ Role making: the phase in a leader-follower relationship when a follower voices 
 Leader effectiveness: The degree to which the leader's actions result in the achievement of the unit's goals, the continued commitment of the unit's employees, and the development of mutual trust, respect, and obligation in leader-member dyads.
 Leader emergence: The process of becoming a leader in the first place
 Autocratic style: A leadership style in which the leader makes the decision alone without asking for opinions or suggestions of the employees in the work unit
+Consultative syle: A leadership style in which the leader presents the problem to employees asking for their opinions and suggestions before ultimately making the decision
+Facilitative style: A leadership style in which the leader presents the problem to a group of employees and seeks consensus on a solution, making sure their own opinion receives no more weight than anyone else's
+Delegative style: A leadership style in which the leader gives the employee the responsibility for making decisions within some set of specified boundary conditions
+
+
  */
 
 
