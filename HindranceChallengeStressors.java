@@ -6,7 +6,8 @@ Selling: When the leader explains key issues and provides opportunities for clar
 -> Explains key issues and provides opportunities for clarification
 Participating: Leader behavior in which the leader shares ideas and tries to help the group conduct its affairs
 -> Leader shares ideas and tries to help
-
+Delegating: Leader behavior in which the leader turns responsibility for key behaviors over to employees
+-> Turns responsibility to employees
 
 
 
