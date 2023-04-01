@@ -1,4 +1,14 @@
 /*
+Chapter 13: Leadership Styles and Behaviors
+Leadership: The use of power and influence to direct the activities of followers toward goal achievement
+Leader-member exchange theory: A theory describing how leader-member relationships develop over time on a dyadic basis
+Role taking: the phase in a leader-followers relationship when a leader provides an employee with job expectations and the followers tries to meet those expectations
+Role making: the phase in a leader-follower relationship when a follower voices their own expectations for the relationship, resulting in a free-flowing exchange of opportunties and resources for activities and effort
+ */
+
+
+
+/*
 Ability to influence others
 Organizational Power ->
 Legitimate Power: A form of organizational power based on authority or position
