@@ -4,6 +4,9 @@ Leadership: The use of power and influence to direct the activities of followers
 Leader-member exchange theory: A theory describing how leader-member relationships develop over time on a dyadic basis
 Role taking: the phase in a leader-followers relationship when a leader provides an employee with job expectations and the followers tries to meet those expectations
 Role making: the phase in a leader-follower relationship when a follower voices their own expectations for the relationship, resulting in a free-flowing exchange of opportunties and resources for activities and effort
+Leader effectiveness: The degree to which the leader's actions result in the achievement of the unit's goals, the continued commitment of the unit's employees, and the development of mutual trust, respect, and obligation in leader-member dyads.
+Leader emergence: The process of becoming a leader in the first place
+Autocratic style: A leadership style in which the leader makes the decision alone without asking for opinions or suggestions of the employees in the work unit
  */
 
 
