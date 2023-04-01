@@ -1,4 +1,12 @@
 /*
+Important:
+Telling: When the leader provides specific instructions and closely supervises performance
+-> Provides instructios and supervises
+
+
+
+
+
 Chapter 13: Leadership Styles and Behaviors
 Leadership: The use of power and influence to direct the activities of followers toward goal achievement
 Leader-member exchange theory: A theory describing how leader-member relationships develop over time on a dyadic basis
