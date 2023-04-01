@@ -1,7 +1,10 @@
 /*
 Important:
 Telling: When the leader provides specific instructions and closely supervises performance
--> Provides instructios and supervises
+-> Provides instructios and supervises performance
+Selling: When the leader explains key issues and provides opportunities for clarification
+-> Explains key issues and provides opportunities for clarification
+Participating: Leader behavior in which the leader shares ideas and tries to help the group conduct its affairs
 
 
 
