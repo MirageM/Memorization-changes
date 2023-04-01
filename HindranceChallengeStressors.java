@@ -11,6 +11,14 @@ Consultative syle: A leadership style in which the leader presents the problem t
 Facilitative style: A leadership style in which the leader presents the problem to a group of employees and seeks consensus on a solution, making sure their own opinion receives no more weight than anyone else's
 Delegative style: A leadership style in which the leader gives the employee the responsibility for making decisions within some set of specified boundary conditions
 
+Initiating Structure: Delegating, Participating, Sellling, Telling
+Consideration: Delegating, Participating, Selling, Telling
+
+Low Initiating Strucuture: Delegating, Participating
+High Initiating Structure: Selling, Telling
+Low Consideration: Delegating, Telling
+High Consideration: Participating, Selling
+
 
  */
 
