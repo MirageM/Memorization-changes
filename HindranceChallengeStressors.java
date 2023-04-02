@@ -1,4 +1,10 @@
 /*
+ The four I's
+
+
+
+
+
 Important:
 Telling: When the leader provides specific instructions and closely supervises performance
 -> Provides instructios and supervises performance
