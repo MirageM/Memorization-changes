@@ -1,5 +1,6 @@
 /*
  The four I's
+ Idealized influence, Inspirtational motivaton, intellectual stimulation, individualized consideration
 
  Mechanistic Organizations: Efficient, rigid, predictable, and standardized organizations that thrive in stable environments
  Organic Organizations: Flexible, adaptive, outward-focused organizations that thrive in dynamic environments
