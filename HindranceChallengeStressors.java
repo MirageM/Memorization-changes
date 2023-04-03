@@ -1,6 +1,7 @@
 /*
  The four I's
 
+ Mechanistic Organizations: Efficient, rigid, predictable, and standardized organizations that thrive in stable environments
 
 
 
