@@ -5,7 +5,8 @@ Observable Artifacts: Aspects of an organization's culture that employees and ou
 -> Aspects employees/outsiders can easily see
 Espoused Values: The beliefs, philophies, and norms that a company explicitly states
 -> Beliefs, Philosophies, and Norms
-Basic Underlying Assumptions:
+Basic Underlying Assumptions: The ingrained beliefs and philosophies of employees
+-> Ingrained beliefs and philosophies
  */
 
 
