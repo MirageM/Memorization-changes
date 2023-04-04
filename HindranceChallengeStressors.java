@@ -1,4 +1,11 @@
 /*
+Chapter 15: Organizational Culture
+Organizational culture: The shared knowledge within an organizaiton regarding the rules, norms, and values that shape the attitudes and behaviors of its employees
+ 
+ */
+
+
+/*
  The four I's
  Idealized influence, Inspirtational motivaton, intellectual stimulation, individualized consideration
 
