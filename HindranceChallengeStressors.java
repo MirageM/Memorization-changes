@@ -1,7 +1,10 @@
 /*
 Chapter 15: Organizational Culture
 Organizational culture: The shared knowledge within an organizaiton regarding the rules, norms, and values that shape the attitudes and behaviors of its employees
- 
+Observable Artifacts: Aspects of an organization's culture that employees and outsides can eaisly see or talk about
+-> Aspects employees/outsiders can easily see
+Espoused Values:
+Basic Underlying Assumptions:
  */
 
 
