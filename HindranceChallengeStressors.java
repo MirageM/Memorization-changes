@@ -7,6 +7,9 @@ Espoused Values: The beliefs, philophies, and norms that a company explicitly st
 -> Beliefs, Philosophies, and Norms
 Basic Underlying Assumptions: The ingrained beliefs and philosophies of employees
 -> Ingrained beliefs and philosophies
+
+Language: The jargon, slang, and slogans used within an organization
+Stories: Anecote, accounts, legends, and myths passed down from cohort to cohort within an organization
  */
 
 
