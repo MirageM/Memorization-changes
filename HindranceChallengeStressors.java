@@ -19,6 +19,12 @@ General cultures types:
 -Networked Culture
 -Communal Culture
 -Customer Service Culture
+-Safety Culture
+-Diversity Culture
+-Sustainability Culture
+-Creativity Culture
+
+Culture Strength: The degree to which employees agree about how things should happen within the organization and behave accordingly
 
  */
 
