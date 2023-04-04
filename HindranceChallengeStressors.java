@@ -12,6 +12,14 @@ Language: The jargon, slang, and slogans used within an organization
 Stories: Anecote, accounts, legends, and myths passed down from cohort to cohort within an organization
 Rituals: The daily or weekly planned routines that occur in an organization
 Ceremonies: Formal events, generally performed in front of an audience of organizational members
+
+General cultures types:
+-Fragmented Culture
+-Mercenary Culture
+-Networked Culture
+-Communal Culture
+-Customer Service Culture
+
  */
 
 
