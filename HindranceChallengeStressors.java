@@ -1,4 +1,6 @@
 /*
+Team States: Cohesion, Potency, Mental Models, Transactive Memory
+
 Work teams: Relatively permanent teams in which members work together to produce goods and/or provide services
 Management Teams: Relatively permanent teams that participate in managerial-level tasks that affect the entire organization
 Parallel Teams: Teams composed of members from various jobs within the organization that meet to provide recommendations about important issues
