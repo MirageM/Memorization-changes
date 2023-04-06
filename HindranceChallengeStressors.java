@@ -1,4 +1,13 @@
 /*
+Work teams: Relatively permanent teams in which members work together to produce goods and/or provide services
+Management Teams: Relatively permanent teams that participate in managerial-level tasks that affect the entire organization
+ 
+ */
+
+
+
+
+/*
 Chapter 15: Organizational Culture
 Organizational culture: The shared knowledge within an organizaiton regarding the rules, norms, and values that shape the attitudes and behaviors of its employees
 Observable Artifacts: Aspects of an organization's culture that employees and outsides can eaisly see or talk about
@@ -38,7 +47,7 @@ Understanding and adaptation: The final stage of socialization, during which new
 
 /*
  The four I's
- Idealized influence, Inspirtational motivaton, intellectual stimulation, individualized consideration
+ Idealized influence, Inspirational motivaton, intellectual stimulation, individualized consideration
 
  Mechanistic Organizations: Efficient, rigid, predictable, and standardized organizations that thrive in stable environments
  Organic Organizations: Flexible, adaptive, outward-focused organizations that thrive in dynamic environments
