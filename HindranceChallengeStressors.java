@@ -28,6 +28,11 @@ Culture Strength: The degree to which employees agree about how things should ha
 
 Subcultures: Cultures created within small subsets of the organization's employees
 Countercultures: Subcultures whose values do not match those of the organization
+
+Anticipatory Stage: A stage of socialization that begins as soon as a potential employee develops an image of what it would be like to work for a company
+Encounter Stage: A stage of socialization begging the day an employee starts work, during which the employee compares the information as an outsider to the information as an insider
+Reality Shock: A mismatch of informaiton that occurs when an employee finds that aspects of working at a company are not what they expected them to be
+Understanding and adaptation: The final stage of socialization, during which newcomers come to learn the content areas of socializatin and internalize the norms and expected behaviors of the organization
  */
 
 
