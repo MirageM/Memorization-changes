@@ -3,6 +3,8 @@ High Leader Control |-Autocratic Style -> Consulative Style -> Facilitative Styl
 
 Autocratic Style: A leadership style in which the leader makes the decision alone without asking for opinions or suggestions of the employees in the work unit
 -> Autocratic Style -> Leader makes the decision alone
+Consultative Style: A leadership style in which the leader presents the problem to employees asking for their opinions and suggugestions before ultimately making the decision
+-> Consultative Style -> Leader listens to the employees then makes the final decision alone
 
 
 
