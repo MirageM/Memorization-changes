@@ -1,4 +1,25 @@
 /*
+Idealized influence
+Intellectual stimulation
+Inspirational motivation
+Individual consideration
+
+Networked culture: An organizaitonal culture in which employees are friendly to one another, but everyone thinks differently about their differences
+Communal culture: An organizational culture type in which employees are friendly to one another and all think alike
+Fragmented culture: An organizational culture type in which employees are distant and disconnected from one another
+Mercenary culture: An organizational culture type in which employees think alike but are not friendly to one another
+
+
+
+
+Heuristics: Simple and efficient rules of thumb that allow one to make decisions more easily
+Heuristics -> Mental Model
+Availability bias: The tendency for people to base their judgements on information that is easier to recall
+Availability bias -> Cognitive bias (Relying on information)
+
+
+
+
 Team States: Cohesion, Potency, Mental Models, Transactive Memory
 
 Work teams: Relatively permanent teams in which members work together to produce goods and/or provide services
