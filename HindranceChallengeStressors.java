@@ -1,6 +1,9 @@
 /*
 High Leader Control |-Autocratic Style -> Consulative Style -> Facilitative Style -> Delegative Style -| High Follower Control
 
+Autocratic Style: A leadership style in which the leader makes the decision alone without asking for opinions or suggestions of the employees in the work unit
+-> Autocratic Style -> Leader makes the decision alone
+
 
 
 
