@@ -7,7 +7,8 @@ Consultative Style: A leadership style in which the leader presents the problem 
 -> Consultative Style -> Leader listens to the employees then makes the final decision alone
 Facilitative Style: A leadership style in which the leader presents the problem to a group of employees and seeks consensus on a solution, making sure their own opinion receives no more weight than anyone else's
 -> Facilitative Style -> Leader makes the decision together with the employees
-
+Delegative Style: A leadership style in which the leader gives the employee the responsibility for making decisions within some set of specified boundary conditions
+-> Delegative Style -> Employees make the decision
 
 
 
