@@ -10,7 +10,9 @@ Computer-mediated Communication: The exchange of information and meaning using a
 Email: A popular method of exchanging written digital messages from an author to one or more recipients
 -> Exchanging written digital messages from an author
 Videoconferencing: A communication medium that permits real-time, live interaction and discussion between remote individuals or groups via satellite or internet
-->Real time, live interaction through internet
+-> Real time, live interaction through internet
+Wiki: A highly flexible Web 2.0 application that allows people to quickly exchange verbal information and collaboratively solve problems, learn, manage projects, and create knowledge
+-> Highly flexible Web 2.0 to collaboratively solve problems, learn, manage projects, and create knowledge
  */
 
 
