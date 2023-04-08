@@ -1,7 +1,10 @@
 /*
 Face-to-face communication: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
 -> The exchange of information when individuals are physically present
-
+Verbal communication: A form of communicaiton in which messages are sent and received using written and spoken language
+->Messages are sent and received using written/spoken language
+Nonverbal communication:  Any form of information exchange that doesn't involve spoken or written words
+-> Information exchange that doesn't involve spoken or written words
  */
 
 
