@@ -5,6 +5,8 @@ Autocratic Style: A leadership style in which the leader makes the decision alon
 -> Autocratic Style -> Leader makes the decision alone
 Consultative Style: A leadership style in which the leader presents the problem to employees asking for their opinions and suggugestions before ultimately making the decision
 -> Consultative Style -> Leader listens to the employees then makes the final decision alone
+Facilitative Style: A leadership style in which the leader presents the problem to a group of employees and seeks consensus on a solution, making sure their own opinion receives no more weight than anyone else's
+-> Facilitative Style -> Leader makes the decision together with the employees
 
 
 
