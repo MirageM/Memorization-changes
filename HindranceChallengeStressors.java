@@ -5,6 +5,12 @@ Verbal communication: A form of communicaiton in which messages are sent and rec
 ->Messages are sent and received using written/spoken language
 Nonverbal communication:  Any form of information exchange that doesn't involve spoken or written words
 -> Information exchange that doesn't involve spoken or written words
+Computer-mediated Communication: The exchange of information and meaning using an electronic, digital medium
+-> The exchange of information suing electronic, digital medium
+Email: A popular method of exchanging written digital messages from an author to one or more recipients
+-> Exchanging written digital messages from an author
+Videoconferencing: A communication medium that permits real-time, live interaction and discussion between remote individuals or groups via satellite or internet
+->Real time, live interaction through internet
  */
 
 
