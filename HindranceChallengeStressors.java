@@ -1,4 +1,9 @@
 /*
+High Leader Control |-Autocratic Style -> Consulative Style -> Facilitative Style -> Delegative Style -| High Follower Control
+
+
+
+
 Idealized influence
 Intellectual stimulation
 Inspirational motivation
