@@ -1,4 +1,12 @@
 /*
+Communicator Competence: the ability of communicators to encode and interpret messages
+Communicator Competence: the ability of communicators to encode and interpret messages
+Communicator Competence: the ability of communicators to encode and interpret messages
+
+
+
+
+
 Face-to-face communication: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
 -> The exchange of information when individuals are physically present
 Verbal communication: A form of communicaiton in which messages are sent and received using written and spoken language
