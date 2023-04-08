@@ -1,4 +1,13 @@
 /*
+Face-to-face communication: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
+-> The exchange of information when individuals are physically present
+
+ */
+
+
+
+
+/*
 High Leader Control |-Autocratic Style -> Consulative Style -> Facilitative Style -> Delegative Style -| High Follower Control
 
 Autocratic Style: A leadership style in which the leader makes the decision alone without asking for opinions or suggestions of the employees in the work unit
