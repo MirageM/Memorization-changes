@@ -1,4 +1,9 @@
 /*
+Decision-Making Problems
+Bounded rationality: The notion that people do not have the ability or resources to process all available information and alternatives when making a decision
+-> people do not have the ability or resources to process all available information
+
+
 DIMENSION OF TRUST WORTHINESS (Ability, Benevolence, Integrity)
 Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
 Ability: Relatively stable capabilities of people for performing a particular range of related activities
