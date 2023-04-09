@@ -1,10 +1,16 @@
 /*
-Communicator Competence: the ability of communicators to encode and interpret messages
-Communicator Competence: the ability of communicators to encode and interpret messages
-Communicator Competence: the ability of communicators to encode and interpret messages
+Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
+-> Feelings
+Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
+-> Rational assement
+Disposition-based trust: Trust rooted in one's own personality, as opposed to a careful assessment of the trustee's trustworthiness
+-> Personality
 
 
 
+Communicator Competence: the ability of communicators to encode and interpret messages
+Communicator Competence: the ability of communicators to encode and interpret messages
+Communicator Competence: the ability of communicators to encode and interpret messages
 
 
 Face-to-face communication: The exchange of information and meaning when one or more individuals are physically present, and where communication occurs without the aid of any mediating technology
