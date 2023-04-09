@@ -1,4 +1,12 @@
 /*
+DIMENSION OF TRUST WORTHINESS (Ability, Benevolence, Integrity)
+Trustworthiness: Characteristics or attributes of a person that inspire trust, including perceptions of ability, benevolence, and integrity
+Ability: Relatively stable capabilities of people for performing a particular range of related activities
+Benevolence: The belief that an authority wants to do good for a trustor, apart from any selfish or profit-centered motives
+Integrity: The perception that an authority adheres to a set of values and principles that the trustor finds acceptable
+
+
+
 Affect-based trust: Trust dependent on feelings toward the authority that go beyond any rational assessment of trustworthiness
 -> Feelings
 Cognition-based trust: Trust rooted in a rational assessment of the authority's trustworthiness
