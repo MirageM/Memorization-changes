@@ -6,8 +6,7 @@ Punishment: Consequence is added & Unwanted outcome
 Negative Reinforcement: Consequence is removed & Unwanted outcome
 
 
-
-
+Benign Job Demand: job demands that are not appraised as being too stressful
 
 Role conflict: Others having differing expecations of what an individual needs to do in a role
 Role ambiguity: A lack of direction and information about what needs to be done in a role
