@@ -1,4 +1,14 @@
 /*
+Role conflict: Others having differing expecations of what an individual needs to do in a role
+Role ambiguity: A lack of direction and information about what needs to be done in a role
+Role overload: An excess of demands on an employee preventing them from working effectively
+Daily hassles: Minor day-to-day demands that interfere with work accomplishment
+
+Time pressure: The sense that the amount of time allotted to do a job is not quire enough
+Work complexity: The degree to which job requirements tax or exceed employee capabilties
+
+
+
 Decision-Making Problems
 Bounded rationality: The notion that people do not have the ability or resources to process all available information and alternatives when making a decision
 -> people do not have the ability or resources to process all available information
