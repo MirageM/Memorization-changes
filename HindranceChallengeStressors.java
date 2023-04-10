@@ -7,6 +7,11 @@ Daily hassles: Minor day-to-day demands that interfere with work accomplishment
 Time pressure: The sense that the amount of time allotted to do a job is not quire enough
 Work complexity: The degree to which job requirements tax or exceed employee capabilties
 
+Work-Hindrance Stressors: Role conflict, Role ambiguity, Role overload, Daily hassles
+Nonwork-Hindrance Stressors: Work-family conflict, Negative life events, Financial uncertainty
+
+Work-Challenge Stressor: Time pressure, Work complexity, work responsibility
+Nonwork-Challenge Stressor: Family time demands, personal development, positive life events
 
 
 Decision-Making Problems
