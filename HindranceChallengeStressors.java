@@ -1,4 +1,12 @@
 /*
+
+Communion striving: A strong desire to obtain acceptance in personal relationships as a means of expressing one's personality
+-> Acceptances in personal relationships
+-> Obtain Acceptance
+Status Striving: A strong desire to obtain power and influence within a social structure as a means of expressing one's personality
+->.Obtain power and influence within a social structure
+
+
 Whistle-blowing: Employees' exposing illegal or immoral actions by their employer
 
 Four-component model: A model that argues that ethical behaviors result from the multistage sequence of moral awareness, moral judgement, moral intent, and ethical behavior
