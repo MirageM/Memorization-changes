@@ -1,4 +1,10 @@
 /*
+
+Transactive Memory: The degree to which team members' specialized knowledge is integrated into an effective system of memory for the team
+-> specialized knowledge is integrated
+
+
+
 Highly centralized networks:
 Y network structure
 Wheel Network Structure
