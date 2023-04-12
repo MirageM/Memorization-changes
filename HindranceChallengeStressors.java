@@ -1,4 +1,9 @@
 /*
+Highly centralized networks:
+Y network structure
+Wheel Network Structure
+
+
 Trust: The willingness to be vulnerable to an authority because of positve expectations about the authority's actions and intentions
 Justice: The perceived fairness of an authority's decision making
 Ethics: The degree to which the behaviors of an authority are in accordance with generally accepted moral norms
