@@ -1,4 +1,8 @@
 /*
+Physiological Strains
+Psychological Strains
+Behavioural Strains
+
 Contingencies of reinforcement: Four specific consequences used by organizations to modify employee behaviour
 Positive reinforcement: Consequence is added & Wanted outcome
 Extinction: Consequence is removed & Wanted outcome
