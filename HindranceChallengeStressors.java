@@ -1,4 +1,8 @@
 /*
+Whistle-blowing: Employees' exposing illegal or immoral actions by their employer
+
+Four-component model: A model that argues that ethical behaviors result from the multistage sequence of moral awareness, moral judgement, moral intent, and ethical behavior
+
 
 Transactive Memory: The degree to which team members' specialized knowledge is integrated into an effective system of memory for the team
 -> specialized knowledge is integrated
