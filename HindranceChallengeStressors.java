@@ -9,6 +9,9 @@ Selective Perception: The tendency for people to see their environment only as i
 Projection bias: The faulty perception by decision makers that others think, feel, and act as they do
 -> Others think, feel, act as you do
 
+Heuristics: Simple and efficient rules of thumb that allow on to make decisions more easily
+-> rule of thumb
+
 Anticipatory
 
 
