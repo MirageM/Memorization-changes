@@ -3,6 +3,12 @@ Rational Persuasion: The use of logical arguments and hard facts to show someone
 -> Use of logical arguments and hard facts
 Inspirational Appeal: An influence tactic designed to appeal to one's values and ideals, thereby creating an emotional or attitudinal reaction
 -> Creating an emotional or attitudinal reaction
+Ingratiation: The use of favours, compliments, or friendly behaviour to make the target feel better about the influencer
+-> Use of favours, compliments, or friendly behaviors
+Personal Appeals: An influence tactics in which the requestor asks for something based on personal friendship or loyalty
+-> Asked based off personal friendship or loyalty
+
+
 
 
 Satisficing: What a decision maker is doing who chooses the first acceptable alternative considered
