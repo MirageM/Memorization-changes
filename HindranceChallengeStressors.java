@@ -1,5 +1,16 @@
 /*
 
+Satisficing: What a decision maker is doing who chooses the first acceptable alternative considered
+-> Chooses the first alternative
+Selective Perception: The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
+-> The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
+-> Chooses based of their environment
+
+
+
+Anticipatory
+
+
 Communion striving: A strong desire to obtain acceptance in personal relationships as a means of expressing one's personality
 -> Acceptances in personal relationships
 -> Obtain Acceptance
