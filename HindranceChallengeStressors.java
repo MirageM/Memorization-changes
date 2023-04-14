@@ -6,7 +6,8 @@ Selective Perception: The tendency for people to see their environment only as i
 -> The tendency for people to see their environment only as it affects them and as it is consistent with their expectations
 -> Chooses based of their environment
 
-
+Projection bias: The faulty perception by decision makers that others think, feel, and act as they do
+-> Others think, feel, act as you do
 
 Anticipatory
 
