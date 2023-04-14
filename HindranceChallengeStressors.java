@@ -8,7 +8,8 @@ Ingratiation: The use of favours, compliments, or friendly behaviour to make the
 Personal Appeals: An influence tactics in which the requestor asks for something based on personal friendship or loyalty
 -> Asked based off personal friendship or loyalty
 
-
+Apprising: An influence tactic in which the requestor clearly explains why performing the request will benefit the target personally
+-> Performing the request wil benefit
 
 
 Satisficing: What a decision maker is doing who chooses the first acceptable alternative considered
