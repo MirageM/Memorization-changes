@@ -1,4 +1,9 @@
 /*
+Rational Persuasion: The use of logical arguments and hard facts to show someone that a request is worthwhile
+-> Use of logical arguments and hard facts
+Inspirational Appeal: An influence tactic designed to appeal to one's values and ideals, thereby creating an emotional or attitudinal reaction
+-> Creating an emotional or attitudinal reaction
+
 
 Satisficing: What a decision maker is doing who chooses the first acceptable alternative considered
 -> Chooses the first alternative
