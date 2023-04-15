@@ -1,4 +1,6 @@
 /*
+Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
+
 Supervisor feedback: A form of downward communication in which the supervisor provides information to a subordinate about their job performance
 
 Training: A systematic effort by organizations to faciliate the learning of job-related knowledge and behaviour
