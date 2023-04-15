@@ -1,5 +1,8 @@
 /*
 Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
+Reliability: The extent to which the selection procedure (e.g job interview) is free from random error
+Predictive validity: The extent to which the selection procedures (e.g, job interview) predicts future job performance
+
 
 Supervisor feedback: A form of downward communication in which the supervisor provides information to a subordinate about their job performance
 
