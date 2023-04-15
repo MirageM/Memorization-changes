@@ -1,4 +1,11 @@
 /*
+Training: A systematic effort by organizations to faciliate the learning of job-related knowledge and behaviour
+Knowledge transfer: The exchange of knowledge between employees
+Behaviour modelling training: When employees observe the actions of others, learn from what they observe, and then repeat the observed behaviour
+Communities of practice: Groups of employees who learn from one another through collaboration over an extended period of time
+Transfer of training: Occurs when employees retain and demonstrate the knowledge, skills, and behaviours required for their job after training ends
+Climate for transfer: An organizational environment that support the use of new skills
+
 Consensus: Used by decision makers to attribute cause; whether other individuals behave the same way under similar circumstances
 Distinctiveness: Used by decision makers to attribute cause; whether the person being judged acts in a similar fashion under different circumstances
 Consistency: Used by decision makers to attribute cause; whether this individual has behaved this way before under similar circumstances
