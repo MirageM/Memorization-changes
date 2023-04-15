@@ -1,4 +1,6 @@
 /*
+Supervisor feedback: A form of downward communication in which the supervisor provides information to a subordinate about their job performance
+
 Training: A systematic effort by organizations to faciliate the learning of job-related knowledge and behaviour
 Knowledge transfer: The exchange of knowledge between employees
 Behaviour modelling training: When employees observe the actions of others, learn from what they observe, and then repeat the observed behaviour
