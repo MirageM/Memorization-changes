@@ -1,4 +1,8 @@
 /*
+Rumours: Messages that travel along the grapevine that lack eivdence as to their truth or validity
+Gossip: Rumours about other people
+
+
 Bounded Rationality: The notion that people do not have the ability or resources to process all available information and alternatives when making a decision
 -> People do not have the ability or resources
 
