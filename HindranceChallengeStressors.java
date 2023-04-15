@@ -2,6 +2,8 @@
 Bounded Rationality: The notion that people do not have the ability or resources to process all available information and alternatives when making a decision
 -> People do not have the ability or resources
 
+Satisficing: What a decision maker is doing who chooses the first acceptable alternative considered
+-> who chooses the first acceptable alternative
 
 Rational Persuasion: The use of logical arguments and hard facts to show someone that a request is worthwhile
 -> Use of logical arguments and hard facts
