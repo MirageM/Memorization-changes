@@ -1,4 +1,8 @@
 /*
+Management by objective: A management philosophy that bases employee evaluations on whether specific performance goals have been met
+-> Specific Performance Goals have been met
+
+
 Job Interview: A conversation initiated by one or more persons to gather information and evaluate the qualifications of the applicant for a job
 Reliability: The extent to which the selection procedure (e.g job interview) is free from random error
 Predictive validity: The extent to which the selection procedures (e.g, job interview) predicts future job performance
