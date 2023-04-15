@@ -1,4 +1,9 @@
 /*
+Consensus: Used by decision makers to attribute cause; whether other individuals behave the same way under similar circumstances
+Distinctiveness: Used by decision makers to attribute cause; whether the person being judged acts in a similar fashion under different circumstances
+Consistency: Used by decision makers to attribute cause; whether this individual has behaved this way before under similar circumstances
+
+
 Rumours: Messages that travel along the grapevine that lack eivdence as to their truth or validity
 Gossip: Rumours about other people
 
