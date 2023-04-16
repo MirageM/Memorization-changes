@@ -1,4 +1,7 @@
 /*
+Readiness: The degree to which employees have the ability and the willingness to accomplish their specific tasks 
+-> Ability to accomplish their specific tasks
+
 Management by objective: A management philosophy that bases employee evaluations on whether specific performance goals have been met
 -> Specific Performance Goals have been met
 Adaptive Task performance: Thoughtul responses by an employee to unique or unusual task demands
