@@ -1,4 +1,14 @@
 /*
+Forming -> Storming -> Norming -> Performing -> Adjourning
+
+Forming: Members orient themselves by trying to understand their boundaries in the team
+Storming: Members remained commited to ideas they rbing with them to the team
+Norming: Members realize that htey need to work together to accomplish team goals, consequently, they begin to cooperate with one another.
+Performing: Members are comfortable working within their roles, and the team makes progress toward goals
+Ajourning: Members experience anxiety and other emotions as they disengage and ultimately separate from the team
+
+
+
 internalization: A response to influence tactics in which the target agrees with and becomes commited to the request
 
 
