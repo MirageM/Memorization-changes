@@ -1,7 +1,12 @@
 /*
 
+Erosion Model: A model that suggests that employees with fewer bonds with co-workers are more likely to quit the organization
+-> employees with fewer bond with co-workers are more likely to quit the organization
+-> quit the organization
+
 Social Influence Model : A model that suggests that employees with direct linkages to co-workers who leave the organization will themselves be more likely to leave
 ->direct linkages with co-workes who leave will most likely leave
+-> Most likely to leave
 
 
 Readiness: The degree to which employees have the ability and the willingness to accomplish their specific tasks 
