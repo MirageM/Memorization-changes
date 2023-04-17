@@ -1,4 +1,6 @@
 /*
+Embeddedness: An employee's connection to and sense of fit in the organization and community
+
 
 Erosion Model: A model that suggests that employees with fewer bonds with co-workers are more likely to quit the organization
 -> employees with fewer bond with co-workers are more likely to quit the organization
