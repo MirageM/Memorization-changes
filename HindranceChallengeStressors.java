@@ -1,4 +1,7 @@
 /*
+Rule of One-Eight: The belief that at best one-eight, or 12 percent, of organizaitons will actually do what is required to build profits by putting people first
+-> Build profits by putting people first
+
 Resource-based view: A model that argues that rare and inimitable resources help firms maintain competitive advantage
 Resourced-based view -> "rare" & "inimitable"
 
