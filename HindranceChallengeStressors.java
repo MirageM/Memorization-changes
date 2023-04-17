@@ -1,4 +1,11 @@
 /*
+Substituability: The degree to which people have alternatives in accessing the resources that a leader controls
+Discretion: The degree to which managers have the right to make decisions on their own
+Centrality: How important a person's job is and how many people depend on that person to accomplish their tasks
+Visibility: How aware others are of a leaer and the resources that leader can provide
+
+
+
 Symbols: The image of an organizaiton uses, which generally convey messages
 Physical structures: The organization's buildings and internal office designs
 Language: The jargon, slang, and slogans used within an organization
