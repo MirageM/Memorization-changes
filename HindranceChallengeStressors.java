@@ -1,4 +1,8 @@
 /*
+Bureaucracy: An organizational form that emphasizes the control and coordination of its members through a strict chain of command, formal rules and procedures, high specicalization, and centralized decision making.
+
+Meta-analysis: A method that combines the results of multiple scientific studies by essentially calculating a weighted average correlation across studies (with larger studies receiving more weight)
+-> Meta-analysis: weighted-average correlation
 
 Scientific management: Using scientific methods to design optimal and efficient work processes and tasks
 -> to design optimal and efficient work processes and tasks
