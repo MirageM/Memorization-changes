@@ -1,4 +1,8 @@
 /*
+
+Scientific management: Using scientific methods to design optimal and efficient work processes and tasks
+-> to design optimal and efficient work processes and tasks
+
 Rule of One-Eight: The belief that at best one-eight, or 12 percent, of organizaitons will actually do what is required to build profits by putting people first
 -> Build profits by putting people first
 
