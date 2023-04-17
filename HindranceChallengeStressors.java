@@ -1,4 +1,9 @@
 /*
+
+Social Influence Model : A model that suggests that employees with direct linkages to co-workers who leave the organization will themselves be more likely to leave
+->direct linkages with co-workes who leave will most likely leave
+
+
 Readiness: The degree to which employees have the ability and the willingness to accomplish their specific tasks 
 -> Ability to accomplish their specific tasks
 
