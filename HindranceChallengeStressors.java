@@ -1,4 +1,8 @@
 /*
+Resource-based view: A model that argues that rare and inimitable resources help firms maintain competitive advantage
+Resourced-based view -> "rare" & "inimitable"
+
+
 Embeddedness: An employee's connection to and sense of fit in the organization and community
 
 
