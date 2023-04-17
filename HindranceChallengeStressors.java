@@ -1,4 +1,11 @@
 /*
+internalization: A response to influence tactics in which the target agrees with and becomes commited to the request
+
+
+Matrix structure: A complex form of organizational structure that combines a functional and multi-divisional grouping
+
+Client structure: An organizaitonal form in which employees are organized around serving customers
+
 Bureaucracy: An organizational form that emphasizes the control and coordination of its members through a strict chain of command, formal rules and procedures, high specicalization, and centralized decision making.
 
 Meta-analysis: A method that combines the results of multiple scientific studies by essentially calculating a weighted average correlation across studies (with larger studies receiving more weight)
