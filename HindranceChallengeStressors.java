@@ -1,9 +1,20 @@
 /*
+Symbols: The image of an organizaiton uses, which generally convey messages
+Physical structures: The organization's buildings and internal office designs
+Language: The jargon, slang, and slogans used within an organization
+Stories: Anecdotes, accounts, legends, and myths passed down from cohort to cohort within an organization
+Rituals: The daily or weekly plannd routines that occur in an organization
+Ceremonies: Formal events, generally performed in front of an audience of organizational members
+
+
+
+
+
 Forming -> Storming -> Norming -> Performing -> Adjourning
 
 Forming: Members orient themselves by trying to understand their boundaries in the team
-Storming: Members remained commited to ideas they rbing with them to the team
-Norming: Members realize that htey need to work together to accomplish team goals, consequently, they begin to cooperate with one another.
+Storming: Members remained commited to ideas they bring with them to the team
+Norming: Members realize that they need to work together to accomplish team goals, consequently, they begin to cooperate with one another.
 Performing: Members are comfortable working within their roles, and the team makes progress toward goals
 Ajourning: Members experience anxiety and other emotions as they disengage and ultimately separate from the team
 
